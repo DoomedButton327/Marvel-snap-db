@@ -18,21 +18,6 @@
     "name": "Fahd",
     "username": "Mini",
     "phone": "+2348140087648",
-    "played": 0,
-    "wins": 0,
-    "draws": 0,
-    "losses": 0,
-    "points": 0,
-    "gf": 0,
-    "ga": 0,
-    "form": [],
-    "postponements": 20,
-    "suspended": false
-  },
-  {
-    "name": "Angel",
-    "username": "Angel",
-    "phone": "+27833006494",
     "played": 1,
     "wins": 0,
     "draws": 0,
@@ -47,9 +32,9 @@
     "suspended": false
   },
   {
-    "name": "DarkHawk",
-    "username": "RobotChicken",
-    "phone": "+2348057545152",
+    "name": "Angel",
+    "username": "Angel",
+    "phone": "+27833006494",
     "played": 0,
     "wins": 0,
     "draws": 0,
@@ -58,6 +43,23 @@
     "gf": 0,
     "ga": 0,
     "form": [],
+    "postponements": 20,
+    "suspended": false
+  },
+  {
+    "name": "DarkHawk",
+    "username": "RobotChicken",
+    "phone": "+2348057545152",
+    "played": 1,
+    "wins": 1,
+    "draws": 0,
+    "losses": 0,
+    "points": 1,
+    "gf": 1,
+    "ga": 0,
+    "form": [
+      "W"
+    ],
     "postponements": 20,
     "suspended": false
   },
@@ -125,16 +127,14 @@
     "name": "Bjorn",
     "username": "BunnyBearZA",
     "phone": "+27815794703",
-    "played": 1,
-    "wins": 1,
+    "played": 0,
+    "wins": 0,
     "draws": 0,
     "losses": 0,
-    "points": 1,
-    "gf": 1,
+    "points": 0,
+    "gf": 0,
     "ga": 0,
-    "form": [
-      "W"
-    ],
+    "form": [],
     "postponements": 20,
     "suspended": false
   },
@@ -157,16 +157,14 @@
     "name": "Brad",
     "username": "Incredible_Brad",
     "phone": "+27827436317",
-    "played": 1,
+    "played": 0,
     "wins": 0,
-    "draws": 1,
+    "draws": 0,
     "losses": 0,
     "points": 0,
-    "gf": 1,
-    "ga": 1,
-    "form": [
-      "D"
-    ],
+    "gf": 0,
+    "ga": 0,
+    "form": [],
     "postponements": 20,
     "suspended": false
   },
@@ -174,16 +172,14 @@
     "name": "Tyron/Astral",
     "username": "Astral_Reign",
     "phone": "+27814301713",
-    "played": 1,
+    "played": 0,
     "wins": 0,
-    "draws": 1,
+    "draws": 0,
     "losses": 0,
     "points": 0,
-    "gf": 1,
-    "ga": 1,
-    "form": [
-      "D"
-    ],
+    "gf": 0,
+    "ga": 0,
+    "form": [],
     "postponements": 20,
     "suspended": false
   }
