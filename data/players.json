@@ -67,14 +67,16 @@
     "name": "Emma 祝福された",
     "username": "Emmanuel",
     "phone": "+2348104879072",
-    "played": 0,
-    "wins": 0,
+    "played": 1,
+    "wins": 1,
     "draws": 0,
     "losses": 0,
-    "points": 0,
-    "gf": 0,
+    "points": 1,
+    "gf": 1,
     "ga": 0,
-    "form": [],
+    "form": [
+      "W"
+    ],
     "postponements": 20,
     "suspended": false
   },
@@ -82,14 +84,16 @@
     "name": "Lethabo",
     "username": "YANITED",
     "phone": "+27714588239",
-    "played": 0,
+    "played": 1,
     "wins": 0,
     "draws": 0,
-    "losses": 0,
+    "losses": 1,
     "points": 0,
     "gf": 0,
-    "ga": 0,
-    "form": [],
+    "ga": 1,
+    "form": [
+      "L"
+    ],
     "postponements": 20,
     "suspended": false
   },
