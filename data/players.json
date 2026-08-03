@@ -3,14 +3,16 @@
     "name": "XWRLD🕴🏼",
     "username": "DNE",
     "phone": "+27750656258",
-    "played": 0,
+    "played": 1,
     "wins": 0,
-    "draws": 0,
+    "draws": 1,
     "losses": 0,
     "points": 0,
     "gf": 0,
     "ga": 0,
-    "form": [],
+    "form": [
+      "D"
+    ],
     "postponements": 20,
     "suspended": false
   },
@@ -101,14 +103,16 @@
     "name": "Kabo",
     "username": "Kaboman",
     "phone": "+27703896056",
-    "played": 0,
+    "played": 1,
     "wins": 0,
     "draws": 0,
-    "losses": 0,
+    "losses": 1,
     "points": 0,
     "gf": 0,
-    "ga": 0,
-    "form": [],
+    "ga": 1,
+    "form": [
+      "L"
+    ],
     "postponements": 20,
     "suspended": false
   },
@@ -116,14 +120,16 @@
     "name": "Mihle",
     "username": "Rabbit",
     "phone": "+270719709662",
-    "played": 0,
+    "played": 1,
     "wins": 0,
-    "draws": 0,
+    "draws": 1,
     "losses": 0,
     "points": 0,
     "gf": 0,
     "ga": 0,
-    "form": [],
+    "form": [
+      "D"
+    ],
     "postponements": 20,
     "suspended": false
   },
@@ -146,14 +152,16 @@
     "name": "BullDOZER",
     "username": "BullDOZER",
     "phone": "+27784483912",
-    "played": 0,
-    "wins": 0,
+    "played": 1,
+    "wins": 1,
     "draws": 0,
     "losses": 0,
-    "points": 0,
-    "gf": 0,
+    "points": 1,
+    "gf": 1,
     "ga": 0,
-    "form": [],
+    "form": [
+      "W"
+    ],
     "postponements": 20,
     "suspended": false
   },
