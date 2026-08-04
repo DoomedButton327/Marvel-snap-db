@@ -21,14 +21,14 @@
     "username": "Mini",
     "phone": "+2348140087648",
     "played": 1,
-    "wins": 0,
+    "wins": 1,
     "draws": 0,
-    "losses": 1,
-    "points": 0,
-    "gf": 0,
-    "ga": 1,
+    "losses": 0,
+    "points": 1,
+    "gf": 1,
+    "ga": 0,
     "form": [
-      "L"
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -55,14 +55,14 @@
     "username": "RobotChicken",
     "phone": "+2348057545152",
     "played": 1,
-    "wins": 1,
+    "wins": 0,
     "draws": 0,
-    "losses": 0,
-    "points": 1,
-    "gf": 1,
-    "ga": 0,
+    "losses": 1,
+    "points": 0,
+    "gf": 0,
+    "ga": 1,
     "form": [
-      "W"
+      "L"
     ],
     "postponements": 20,
     "suspended": false
