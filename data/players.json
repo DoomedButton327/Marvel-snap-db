@@ -3,15 +3,16 @@
     "name": "XWRLD🕴🏼",
     "username": "DNE",
     "phone": "+27750656258",
-    "played": 1,
+    "played": 2,
     "wins": 0,
     "draws": 1,
-    "losses": 0,
+    "losses": 1,
     "points": 0,
     "gf": 0,
-    "ga": 0,
+    "ga": 1,
     "form": [
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -20,14 +21,15 @@
     "name": "Fahd",
     "username": "Mini",
     "phone": "+2348140087648",
-    "played": 1,
-    "wins": 1,
+    "played": 2,
+    "wins": 2,
     "draws": 0,
     "losses": 0,
-    "points": 1,
-    "gf": 1,
+    "points": 2,
+    "gf": 2,
     "ga": 0,
     "form": [
+      "W",
       "W"
     ],
     "postponements": 20,
