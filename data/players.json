@@ -39,15 +39,16 @@
     "name": "Angel",
     "username": "Angel",
     "phone": "+27833006494",
-    "played": 1,
-    "wins": 0,
+    "played": 2,
+    "wins": 1,
     "draws": 0,
     "losses": 1,
-    "points": 0,
-    "gf": 0,
+    "points": 1,
+    "gf": 1,
     "ga": 1,
     "form": [
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -110,15 +111,16 @@
     "name": "Kabo",
     "username": "Kaboman",
     "phone": "+27703896056",
-    "played": 1,
-    "wins": 0,
+    "played": 2,
+    "wins": 1,
     "draws": 0,
     "losses": 1,
-    "points": 0,
-    "gf": 0,
+    "points": 1,
+    "gf": 1,
     "ga": 1,
     "form": [
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -127,15 +129,16 @@
     "name": "Mihle",
     "username": "Rabbit",
     "phone": "+270719709662",
-    "played": 1,
+    "played": 2,
     "wins": 0,
     "draws": 1,
-    "losses": 0,
+    "losses": 1,
     "points": 0,
     "gf": 0,
-    "ga": 0,
+    "ga": 1,
     "form": [
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -180,15 +183,16 @@
     "name": "Brad",
     "username": "Incredible_Brad",
     "phone": "+27827436317",
-    "played": 1,
+    "played": 2,
     "wins": 1,
     "draws": 0,
-    "losses": 0,
+    "losses": 1,
     "points": 1,
     "gf": 1,
-    "ga": 0,
+    "ga": 1,
     "form": [
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
