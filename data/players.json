@@ -93,16 +93,17 @@
     "name": "Lethabo",
     "username": "YANITED",
     "phone": "+27714588239",
-    "played": 2,
-    "wins": 0,
+    "played": 3,
+    "wins": 1,
     "draws": 0,
     "losses": 2,
-    "points": 0,
-    "gf": 0,
+    "points": 1,
+    "gf": 1,
     "ga": 2,
     "form": [
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -201,14 +202,15 @@
     "name": "Tyron/Astral",
     "username": "Astral_Reign",
     "phone": "+27814301713",
-    "played": 2,
+    "played": 3,
     "wins": 0,
     "draws": 0,
-    "losses": 2,
+    "losses": 3,
     "points": 0,
     "gf": 0,
-    "ga": 2,
+    "ga": 3,
     "form": [
+      "L",
       "L",
       "L"
     ],
