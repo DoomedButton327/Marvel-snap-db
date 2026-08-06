@@ -3,15 +3,16 @@
     "name": "XWRLD🕴🏼",
     "username": "DNE",
     "phone": "+27750656258",
-    "played": 2,
+    "played": 3,
     "wins": 0,
     "draws": 1,
-    "losses": 1,
+    "losses": 2,
     "points": 0,
     "gf": 0,
-    "ga": 1,
+    "ga": 2,
     "form": [
       "D",
+      "L",
       "L"
     ],
     "postponements": 20,
@@ -192,16 +193,17 @@
     "name": "Brad",
     "username": "Incredible_Brad",
     "phone": "+27827436317",
-    "played": 2,
-    "wins": 1,
+    "played": 3,
+    "wins": 2,
     "draws": 0,
     "losses": 1,
-    "points": 1,
-    "gf": 1,
+    "points": 2,
+    "gf": 2,
     "ga": 1,
     "form": [
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
