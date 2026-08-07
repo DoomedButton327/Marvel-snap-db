@@ -83,9 +83,9 @@
     "name": "Emma 祝福された",
     "username": "Emmanuel",
     "phone": "+2348104879072",
-    "played": 3,
+    "played": 4,
     "wins": 3,
-    "draws": 0,
+    "draws": 1,
     "losses": 0,
     "points": 3,
     "gf": 3,
@@ -93,7 +93,8 @@
     "form": [
       "W",
       "W",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
@@ -182,9 +183,9 @@
     "name": "BullDOZER",
     "username": "BullDOZER",
     "phone": "+27784483912",
-    "played": 3,
+    "played": 4,
     "wins": 2,
-    "draws": 0,
+    "draws": 1,
     "losses": 1,
     "points": 2,
     "gf": 2,
@@ -192,7 +193,8 @@
     "form": [
       "W",
       "L",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
