@@ -1,5 +1,37 @@
 [
   {
+    "id": 1786178293163,
+    "home": "RobotChicken",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-07"
+  },
+  {
+    "id": 1786178263325,
+    "uid": "741333a3",
+    "loggedAt": "2026-08-08T08:37:35.855Z",
+    "home": "Mini",
+    "away": "YANITED",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-07",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-07/images/match_Mini_vs_YANITED_1786178252208.jpg"
+  },
+  {
+    "id": 1786178241481,
+    "uid": "bba9e396",
+    "loggedAt": "2026-08-08T08:37:15.570Z",
+    "home": "Kaboman",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-07"
+  },
+  {
     "id": 1786178228139,
     "uid": "c1215af2",
     "loggedAt": "2026-08-08T08:37:04.221Z",
