@@ -1,36 +1,8 @@
 [
   {
-    "id": 1786600594296,
-    "home": "Rabbit",
-    "away": "BunnyBearZA",
-    "postponedBy": null,
-    "scheduledDate": "2026-08-12"
-  },
-  {
     "id": 1786600605804,
     "home": "RobotChicken",
     "away": "Mini",
-    "postponedBy": null,
-    "scheduledDate": "2026-08-12"
-  },
-  {
-    "id": 1786600609489,
-    "home": "Incredible_Brad",
-    "away": "YANITED",
-    "postponedBy": null,
-    "scheduledDate": "2026-08-12"
-  },
-  {
-    "id": 1786600621715,
-    "home": "DNE",
-    "away": "Emmanuel",
-    "postponedBy": null,
-    "scheduledDate": "2026-08-12"
-  },
-  {
-    "id": 1786600641400,
-    "home": "Kaboman",
-    "away": "Angel",
     "postponedBy": null,
     "scheduledDate": "2026-08-12"
   }
