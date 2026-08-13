@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "lastUpdated": "2026-08-13T05:59:45.554Z",
+  "lastUpdated": "2026-08-13T06:01:21.568Z",
   "dates": [
     {
       "date": "2026-08-03",
@@ -32,9 +32,9 @@
     },
     {
       "date": "2026-08-12",
-      "count": 5
+      "count": 6
     }
   ],
   "playerCount": 13,
-  "resultCount": 47
+  "resultCount": 48
 }

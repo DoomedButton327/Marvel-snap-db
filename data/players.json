@@ -27,21 +27,22 @@
     "name": "Fahd",
     "username": "Mini",
     "phone": "+2348140087648",
-    "played": 7,
+    "played": 8,
     "wins": 5,
-    "draws": 0,
+    "draws": 1,
     "losses": 2,
     "points": 5,
-    "gf": 5,
-    "ga": 2,
+    "gf": 6,
+    "ga": 3,
     "form": [
       "W",
       "W",
       "L",
       "W",
-      "W",
       "L",
-      "W"
+      "W",
+      "W",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
@@ -62,8 +63,8 @@
       "W",
       "L",
       "L",
-      "W",
       "L",
+      "W",
       "L",
       "L"
     ],
@@ -74,13 +75,13 @@
     "name": "DarkHawk",
     "username": "RobotChicken",
     "phone": "+2348057545152",
-    "played": 7,
+    "played": 8,
     "wins": 3,
-    "draws": 0,
+    "draws": 1,
     "losses": 4,
     "points": 3,
-    "gf": 3,
-    "ga": 4,
+    "gf": 4,
+    "ga": 5,
     "form": [
       "L",
       "W",
@@ -88,7 +89,8 @@
       "L",
       "W",
       "W",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
@@ -109,8 +111,8 @@
       "W",
       "W",
       "D",
-      "L",
       "D",
+      "L",
       "L",
       "W"
     ],
@@ -157,8 +159,8 @@
       "W",
       "L",
       "W",
-      "L",
       "W",
+      "L",
       "W",
       "W"
     ],
