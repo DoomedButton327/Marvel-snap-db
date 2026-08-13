@@ -210,12 +210,12 @@
     "name": "BullDOZER",
     "username": "BullDOZER",
     "phone": "+27784483912",
-    "played": 7,
-    "wins": 4,
+    "played": 8,
+    "wins": 5,
     "draws": 1,
     "losses": 2,
-    "points": 4,
-    "gf": 4,
+    "points": 5,
+    "gf": 5,
     "ga": 2,
     "form": [
       "W",
@@ -224,7 +224,8 @@
       "D",
       "W",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -256,13 +257,13 @@
     "name": "Tyron/Astral",
     "username": "Astral_Reign",
     "phone": "+27814301713",
-    "played": 7,
+    "played": 8,
     "wins": 2,
     "draws": 0,
-    "losses": 5,
+    "losses": 6,
     "points": 2,
     "gf": 2,
-    "ga": 5,
+    "ga": 6,
     "form": [
       "L",
       "L",
@@ -270,7 +271,8 @@
       "W",
       "L",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
