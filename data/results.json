@@ -1,5 +1,23 @@
 [
   {
+    "id": 1786777746909,
+    "home": "Emmanuel",
+    "away": "Kaboman",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-14"
+  },
+  {
+    "id": 1786777736801,
+    "home": "LaMonK",
+    "away": "Rabbit",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-08-14"
+  },
+  {
     "id": 1786777703843,
     "home": "YANITED",
     "away": "Mini",
@@ -39,10 +57,11 @@
     "id": 1786695158047,
     "home": "Emmanuel",
     "away": "BullDOZER",
-    "result": "draw",
+    "result": "away",
     "homeGoals": 0,
-    "awayGoals": 0,
-    "date": "2026-08-13"
+    "awayGoals": 1,
+    "date": "2026-08-13",
+    "editedAt": "2026-08-15T07:09:07.125Z"
   },
   {
     "id": 1786695154570,
