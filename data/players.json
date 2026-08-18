@@ -53,15 +53,14 @@
     "name": "Angel",
     "username": "Angel",
     "phone": "+27833006494",
-    "played": 12,
-    "wins": 2,
+    "played": 13,
+    "wins": 3,
     "draws": 0,
     "losses": 10,
-    "points": 2,
-    "gf": 2,
+    "points": 3,
+    "gf": 3,
     "ga": 10,
     "form": [
-      "L",
       "L",
       "W",
       "L",
@@ -70,7 +69,8 @@
       "L",
       "L",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -313,18 +313,19 @@
     "name": "Snap Hokage",
     "username": "LaMonK",
     "phone": "+27794291572",
-    "played": 4,
+    "played": 5,
     "wins": 1,
     "draws": 3,
-    "losses": 0,
+    "losses": 1,
     "points": 1,
     "gf": 1,
-    "ga": 0,
+    "ga": 1,
     "form": [
       "D",
       "D",
       "D",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
