@@ -54,12 +54,12 @@
     "username": "Angel",
     "phone": "+27833006494",
     "played": 13,
-    "wins": 3,
+    "wins": 2,
     "draws": 0,
-    "losses": 10,
-    "points": 3,
-    "gf": 3,
-    "ga": 10,
+    "losses": 11,
+    "points": 2,
+    "gf": 2,
+    "ga": 11,
     "form": [
       "L",
       "W",
@@ -70,7 +70,7 @@
       "L",
       "L",
       "L",
-      "W"
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -314,18 +314,18 @@
     "username": "LaMonK",
     "phone": "+27794291572",
     "played": 5,
-    "wins": 1,
+    "wins": 2,
     "draws": 3,
-    "losses": 1,
-    "points": 1,
-    "gf": 1,
-    "ga": 1,
+    "losses": 0,
+    "points": 2,
+    "gf": 2,
+    "ga": 0,
     "form": [
       "D",
       "D",
       "D",
       "W",
-      "L"
+      "W"
     ],
     "postponements": 20,
     "suspended": false
