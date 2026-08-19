@@ -183,15 +183,14 @@
     "name": "Mihle",
     "username": "Rabbit",
     "phone": "+270719709662",
-    "played": 13,
+    "played": 14,
     "wins": 6,
     "draws": 3,
-    "losses": 4,
+    "losses": 5,
     "points": 6,
     "gf": 6,
-    "ga": 4,
+    "ga": 5,
     "form": [
-      "L",
       "W",
       "W",
       "W",
@@ -200,7 +199,8 @@
       "D",
       "W",
       "D",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -287,15 +287,14 @@
     "name": "Tyron/Astral",
     "username": "Astral_Reign",
     "phone": "+27814301713",
-    "played": 13,
-    "wins": 3,
+    "played": 14,
+    "wins": 4,
     "draws": 0,
     "losses": 10,
-    "points": 3,
-    "gf": 3,
+    "points": 4,
+    "gf": 4,
     "ga": 10,
     "form": [
-      "W",
       "L",
       "L",
       "W",
@@ -304,7 +303,8 @@
       "W",
       "L",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
