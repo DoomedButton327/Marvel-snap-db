@@ -132,12 +132,12 @@
     "username": "YANITED",
     "phone": "+27714588239",
     "played": 14,
-    "wins": 7,
+    "wins": 6,
     "draws": 1,
-    "losses": 6,
-    "points": 7,
-    "gf": 7,
-    "ga": 6,
+    "losses": 7,
+    "points": 6,
+    "gf": 6,
+    "ga": 7,
     "form": [
       "L",
       "L",
@@ -148,7 +148,7 @@
       "D",
       "L",
       "W",
-      "W"
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -314,19 +314,19 @@
     "username": "LaMonK",
     "phone": "+27794291572",
     "played": 6,
-    "wins": 2,
+    "wins": 3,
     "draws": 3,
-    "losses": 1,
-    "points": 2,
-    "gf": 2,
-    "ga": 1,
+    "losses": 0,
+    "points": 3,
+    "gf": 3,
+    "ga": 0,
     "form": [
       "D",
       "D",
       "D",
       "W",
       "W",
-      "L"
+      "W"
     ],
     "postponements": 20,
     "suspended": false
