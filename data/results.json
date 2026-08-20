@@ -1,5 +1,25 @@
 [
   {
+    "id": 1787261499706,
+    "home": "Incredible_Brad",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-20",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-20/images/match_Incredible_Brad_vs_BunnyBearZA_1787261489187.jpeg"
+  },
+  {
+    "id": 1787261493812,
+    "home": "LaMonK",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-20",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-20/images/match_LaMonK_vs_Kaboman_1787261485081.jpeg"
+  },
+  {
     "id": 1787261457107,
     "home": "YANITED",
     "away": "Astral_Reign",
