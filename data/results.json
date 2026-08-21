@@ -147,11 +147,12 @@
     "id": 1787171473990,
     "home": "RobotChicken",
     "away": "BunnyBearZA",
-    "result": "home",
-    "homeGoals": 1,
-    "awayGoals": 0,
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
     "date": "2026-08-19",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-19/images/match_RobotChicken_vs_BunnyBearZA_1787171469111.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-19/images/match_RobotChicken_vs_BunnyBearZA_1787171469111.jpeg",
+    "editedAt": "2026-08-21T22:54:05.557Z"
   },
   {
     "id": 1787135550380,
