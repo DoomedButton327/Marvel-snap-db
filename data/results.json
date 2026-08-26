@@ -1,5 +1,15 @@
 [
   {
+    "id": 1787784787995,
+    "home": "Incredible_Brad",
+    "away": "RobotChicken",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-26",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-26/images/match_Incredible_Brad_vs_RobotChicken_1787784778198.jpeg"
+  },
+  {
     "id": 1787763693126,
     "home": "Angel",
     "away": "YANITED",
