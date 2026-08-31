@@ -1,5 +1,15 @@
 [
   {
+    "id": 1788217254168,
+    "home": "Angel",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-31",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-31/images/match_Angel_vs_Kaboman_1788217249546.jpeg"
+  },
+  {
     "id": 1788120552661,
     "home": "Rabbit",
     "away": "RobotChicken",
