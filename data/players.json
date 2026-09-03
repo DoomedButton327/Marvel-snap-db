@@ -54,12 +54,12 @@
     "username": "Angel",
     "phone": "+27833006494",
     "played": 26,
-    "wins": 8,
+    "wins": 9,
     "draws": 0,
-    "losses": 18,
-    "points": 8,
-    "gf": 8,
-    "ga": 18,
+    "losses": 17,
+    "points": 9,
+    "gf": 9,
+    "ga": 17,
     "form": [
       "W",
       "W",
@@ -70,7 +70,7 @@
       "W",
       "W",
       "L",
-      "L"
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -132,23 +132,23 @@
     "username": "YANITED",
     "phone": "+27714588239",
     "played": 26,
-    "wins": 13,
+    "wins": 12,
     "draws": 3,
-    "losses": 10,
-    "points": 13,
-    "gf": 13,
-    "ga": 10,
+    "losses": 11,
+    "points": 12,
+    "gf": 12,
+    "ga": 11,
     "form": [
       "L",
+      "D",
+      "D",
       "W",
-      "D",
-      "D",
       "W",
       "W",
       "L",
       "W",
       "W",
-      "W"
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -193,8 +193,8 @@
     "form": [
       "L",
       "L",
-      "L",
       "D",
+      "L",
       "L",
       "W",
       "W",
@@ -223,9 +223,9 @@
       "L",
       "L",
       "L",
+      "D",
+      "D",
       "W",
-      "D",
-      "D",
       "D"
     ],
     "postponements": 19,
@@ -245,13 +245,13 @@
     "form": [
       "W",
       "W",
-      "W",
       "D",
-      "L",
-      "W",
       "W",
       "L",
       "W",
+      "W",
+      "W",
+      "L",
       "W"
     ],
     "postponements": 20,
@@ -277,8 +277,8 @@
       "L",
       "D",
       "W",
-      "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 19,
     "suspended": false

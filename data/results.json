@@ -63,9 +63,9 @@
     "id": 1788390127805,
     "home": "Angel",
     "away": "YANITED",
-    "result": "away",
-    "homeGoals": 0,
-    "awayGoals": 1,
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
     "date": "2026-09-02",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-02/images/match_Angel_vs_YANITED_1788390119828.jpeg"
   },
