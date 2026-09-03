@@ -1,5 +1,15 @@
 [
   {
+    "id": 1788469205089,
+    "home": "RobotChicken",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-03",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-03/images/match_RobotChicken_vs_Astral_Reign_1788469193722.jpeg"
+  },
+  {
     "id": 1788467652268,
     "home": "BullDOZER",
     "away": "Incredible_Brad",
