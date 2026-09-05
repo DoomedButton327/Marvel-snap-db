@@ -1,5 +1,15 @@
 [
   {
+    "id": 1788587550813,
+    "home": "Mini",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-04",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-04/images/match_Mini_vs_Kaboman_1788587548004.jpeg"
+  },
+  {
     "id": 1788563529686,
     "home": "Angel",
     "away": "BullDOZER",
