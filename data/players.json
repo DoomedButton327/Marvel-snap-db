@@ -131,15 +131,14 @@
     "name": "Lethabo",
     "username": "YANITED",
     "phone": "+27714588239",
-    "played": 28,
-    "wins": 12,
+    "played": 29,
+    "wins": 13,
     "draws": 3,
     "losses": 13,
-    "points": 12,
-    "gf": 12,
+    "points": 13,
+    "gf": 13,
     "ga": 13,
     "form": [
-      "D",
       "W",
       "W",
       "W",
@@ -148,7 +147,8 @@
       "W",
       "L",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -261,15 +261,14 @@
     "name": "Brad",
     "username": "Incredible_Brad",
     "phone": "+27827436317",
-    "played": 27,
+    "played": 28,
     "wins": 9,
     "draws": 4,
-    "losses": 14,
+    "losses": 15,
     "points": 9,
     "gf": 9,
-    "ga": 14,
+    "ga": 15,
     "form": [
-      "L",
       "W",
       "W",
       "L",
@@ -278,7 +277,8 @@
       "W",
       "L",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 19,
     "suspended": false
