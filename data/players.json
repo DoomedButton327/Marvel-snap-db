@@ -53,15 +53,14 @@
     "name": "Angel",
     "username": "Angel",
     "phone": "+27833006494",
-    "played": 30,
-    "wins": 12,
+    "played": 31,
+    "wins": 13,
     "draws": 0,
     "losses": 18,
-    "points": 12,
-    "gf": 12,
+    "points": 13,
+    "gf": 13,
     "ga": 18,
     "form": [
-      "W",
       "L",
       "W",
       "W",
@@ -70,7 +69,8 @@
       "W",
       "W",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -261,15 +261,14 @@
     "name": "Brad",
     "username": "Incredible_Brad",
     "phone": "+27827436317",
-    "played": 29,
+    "played": 30,
     "wins": 10,
     "draws": 4,
-    "losses": 15,
+    "losses": 16,
     "points": 10,
     "gf": 10,
-    "ga": 15,
+    "ga": 16,
     "form": [
-      "W",
       "L",
       "L",
       "D",
@@ -278,7 +277,8 @@
       "W",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 19,
     "suspended": false

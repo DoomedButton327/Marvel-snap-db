@@ -1,5 +1,15 @@
 [
   {
+    "id": 1788908920433,
+    "home": "Incredible_Brad",
+    "away": "Angel",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-08",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-08/images/match_Incredible_Brad_vs_Angel_1788908913978.jpeg"
+  },
+  {
     "id": 1788816601874,
     "home": "YANITED",
     "away": "BullDOZER",
