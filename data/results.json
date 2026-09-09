@@ -1,5 +1,14 @@
 [
   {
+    "id": 1788989512724,
+    "home": "RobotChicken",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-07"
+  },
+  {
     "id": 1788989492920,
     "home": "BullDOZER",
     "away": "RobotChicken",
