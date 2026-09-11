@@ -54,12 +54,12 @@
     "username": "Angel",
     "phone": "+27833006494",
     "played": 34,
-    "wins": 15,
+    "wins": 14,
     "draws": 0,
-    "losses": 19,
-    "points": 15,
-    "gf": 15,
-    "ga": 19,
+    "losses": 20,
+    "points": 14,
+    "gf": 14,
+    "ga": 20,
     "form": [
       "L",
       "W",
@@ -70,7 +70,7 @@
       "W",
       "L",
       "W",
-      "W"
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -92,8 +92,8 @@
       "L",
       "L",
       "W",
-      "L",
       "W",
+      "L",
       "W",
       "W",
       "L"
@@ -171,8 +171,8 @@
       "L",
       "L",
       "L",
-      "L",
       "W",
+      "L",
       "L",
       "L"
     ],
@@ -194,9 +194,9 @@
       "L",
       "L",
       "L",
-      "L",
-      "L",
       "W",
+      "L",
+      "L",
       "L",
       "L",
       "W",
@@ -262,12 +262,12 @@
     "username": "Incredible_Brad",
     "phone": "+27827436317",
     "played": 33,
-    "wins": 11,
+    "wins": 12,
     "draws": 4,
-    "losses": 18,
-    "points": 11,
-    "gf": 11,
-    "ga": 18,
+    "losses": 17,
+    "points": 12,
+    "gf": 12,
+    "ga": 17,
     "form": [
       "W",
       "L",
@@ -278,7 +278,7 @@
       "L",
       "W",
       "L",
-      "L"
+      "W"
     ],
     "postponements": 19,
     "suspended": false
@@ -302,8 +302,8 @@
       "W",
       "W",
       "L",
-      "L",
       "W",
+      "L",
       "L"
     ],
     "postponements": 20,
