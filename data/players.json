@@ -209,15 +209,14 @@
     "name": "Bjorn",
     "username": "BunnyBearZA",
     "phone": "+27815794703",
-    "played": 27,
-    "wins": 18,
+    "played": 28,
+    "wins": 19,
     "draws": 3,
     "losses": 6,
-    "points": 21,
-    "gf": 21,
+    "points": 22,
+    "gf": 22,
     "ga": 6,
     "form": [
-      "D",
       "W",
       "D",
       "W",
@@ -226,7 +225,8 @@
       "W",
       "L",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 16,
     "suspended": false
@@ -287,15 +287,14 @@
     "name": "Tyron/Astral",
     "username": "Astral_Reign",
     "phone": "+27814301713",
-    "played": 37,
+    "played": 38,
     "wins": 17,
     "draws": 0,
-    "losses": 20,
+    "losses": 21,
     "points": 17,
     "gf": 17,
-    "ga": 20,
+    "ga": 21,
     "form": [
-      "W",
       "L",
       "W",
       "L",
@@ -304,7 +303,8 @@
       "W",
       "L",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
