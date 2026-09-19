@@ -261,15 +261,14 @@
     "name": "Brad",
     "username": "Incredible_Brad",
     "phone": "+27827436317",
-    "played": 38,
+    "played": 39,
     "wins": 13,
     "draws": 4,
-    "losses": 21,
+    "losses": 22,
     "points": 13,
     "gf": 13,
-    "ga": 24,
+    "ga": 25,
     "form": [
-      "W",
       "L",
       "W",
       "L",
@@ -278,7 +277,8 @@
       "L",
       "L",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 17,
     "suspended": false
@@ -287,15 +287,14 @@
     "name": "Tyron/Astral",
     "username": "Astral_Reign",
     "phone": "+27814301713",
-    "played": 38,
-    "wins": 17,
+    "played": 39,
+    "wins": 18,
     "draws": 0,
     "losses": 21,
-    "points": 17,
-    "gf": 17,
+    "points": 18,
+    "gf": 18,
     "ga": 21,
     "form": [
-      "L",
       "W",
       "L",
       "L",
@@ -304,7 +303,8 @@
       "L",
       "L",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
