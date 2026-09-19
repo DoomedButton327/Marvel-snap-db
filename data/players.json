@@ -157,15 +157,14 @@
     "name": "Kabo",
     "username": "Kaboman",
     "phone": "+27703896056",
-    "played": 39,
+    "played": 40,
     "wins": 14,
     "draws": 0,
-    "losses": 25,
+    "losses": 26,
     "points": 14,
     "gf": 14,
-    "ga": 25,
+    "ga": 26,
     "form": [
-      "W",
       "L",
       "L",
       "L",
@@ -174,7 +173,8 @@
       "W",
       "L",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -235,16 +235,15 @@
     "name": "BullDOZER",
     "username": "BullDOZER",
     "phone": "+27784483912",
-    "played": 37,
-    "wins": 23,
+    "played": 38,
+    "wins": 24,
     "draws": 2,
     "losses": 12,
-    "points": 23,
-    "gf": 23,
+    "points": 24,
+    "gf": 24,
     "ga": 12,
     "form": [
       "W",
-      "W",
       "L",
       "W",
       "L",
@@ -252,7 +251,8 @@
       "W",
       "L",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
