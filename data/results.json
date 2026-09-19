@@ -1,15 +1,5 @@
 [
   {
-    "id": 1789854800081,
-    "home": "BullDOZER",
-    "away": "BunnyBearZA",
-    "result": "away",
-    "homeGoals": 0,
-    "awayGoals": 1,
-    "date": "2026-09-18",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-18/images/match_BullDOZER_vs_BunnyBearZA_1789854790982.jpeg"
-  },
-  {
     "id": 1789854789451,
     "home": "BunnyBearZA",
     "away": "Incredible_Brad",
