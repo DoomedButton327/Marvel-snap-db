@@ -209,16 +209,14 @@
     "name": "Bjorn",
     "username": "BunnyBearZA",
     "phone": "+27815794703",
-    "played": 29,
-    "wins": 19,
+    "played": 31,
+    "wins": 21,
     "draws": 3,
     "losses": 7,
-    "points": 22,
-    "gf": 22,
+    "points": 24,
+    "gf": 24,
     "ga": 7,
     "form": [
-      "D",
-      "W",
       "W",
       "W",
       "W",
@@ -226,7 +224,9 @@
       "L",
       "L",
       "W",
-      "L"
+      "L",
+      "W",
+      "W"
     ],
     "postponements": 16,
     "suspended": false
@@ -235,15 +235,14 @@
     "name": "BullDOZER",
     "username": "BullDOZER",
     "phone": "+27784483912",
-    "played": 36,
+    "played": 37,
     "wins": 23,
     "draws": 2,
-    "losses": 11,
+    "losses": 12,
     "points": 23,
     "gf": 23,
-    "ga": 11,
+    "ga": 12,
     "form": [
-      "L",
       "W",
       "W",
       "L",
@@ -252,7 +251,8 @@
       "W",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -261,15 +261,14 @@
     "name": "Brad",
     "username": "Incredible_Brad",
     "phone": "+27827436317",
-    "played": 40,
+    "played": 41,
     "wins": 14,
     "draws": 4,
-    "losses": 22,
+    "losses": 23,
     "points": 14,
     "gf": 14,
-    "ga": 25,
+    "ga": 26,
     "form": [
-      "W",
       "L",
       "W",
       "L",
@@ -278,7 +277,8 @@
       "L",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 17,
     "suspended": false
