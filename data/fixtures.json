@@ -26,13 +26,5 @@
     "away": "BunnyBearZA",
     "postponedBy": null,
     "scheduledDate": "2026-09-22"
-  },
-  {
-    "id": 1790074584927,
-    "home": "Astral_Reign",
-    "away": "Angel",
-    "postponedBy": null,
-    "scheduledDate": "2026-09-22",
-    "catchup": true
   }
 ]
