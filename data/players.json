@@ -209,16 +209,15 @@
     "name": "Bjorn",
     "username": "BunnyBearZA",
     "phone": "+27815794703",
-    "played": 32,
+    "played": 33,
     "wins": 22,
-    "draws": 3,
+    "draws": 4,
     "losses": 7,
     "points": 25,
     "gf": 25,
     "ga": 7,
     "form": [
       "W",
-      "W",
       "L",
       "L",
       "L",
@@ -226,7 +225,8 @@
       "L",
       "W",
       "W",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 11,
     "suspended": false
@@ -235,15 +235,14 @@
     "name": "BullDOZER",
     "username": "BullDOZER",
     "phone": "+27784483912",
-    "played": 39,
+    "played": 40,
     "wins": 24,
-    "draws": 2,
+    "draws": 3,
     "losses": 13,
     "points": 24,
     "gf": 24,
     "ga": 13,
     "form": [
-      "L",
       "W",
       "L",
       "W",
@@ -252,7 +251,8 @@
       "W",
       "L",
       "W",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 19,
     "suspended": false
