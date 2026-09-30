@@ -1,5 +1,15 @@
 [
   {
+    "id": 1790787568333,
+    "home": "Incredible_Brad",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-30",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-30/images/match_Incredible_Brad_vs_Astral_Reign_1790787556969.jpeg"
+  },
+  {
     "id": 1790723133916,
     "home": "Astral_Reign",
     "away": "Mini",
