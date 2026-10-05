@@ -235,15 +235,14 @@
     "name": "BullDOZER",
     "username": "BullDOZER",
     "phone": "+27784483912",
-    "played": 49,
+    "played": 50,
     "wins": 32,
-    "draws": 2,
+    "draws": 3,
     "losses": 15,
     "points": 98,
     "gf": 44,
     "ga": 15,
     "form": [
-      "L",
       "W",
       "W",
       "W",
@@ -252,7 +251,8 @@
       "W",
       "W",
       "L",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 19,
     "suspended": false
@@ -261,9 +261,9 @@
     "name": "Brad",
     "username": "Incredible_Brad",
     "phone": "+27827436317",
-    "played": 49,
+    "played": 50,
     "wins": 19,
-    "draws": 4,
+    "draws": 5,
     "losses": 26,
     "points": 61,
     "gf": 21,
@@ -272,13 +272,13 @@
       "L",
       "L",
       "L",
-      "L",
       "W",
       "L",
       "W",
       "W",
       "W",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 16,
     "suspended": false
