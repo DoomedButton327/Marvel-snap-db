@@ -27,16 +27,15 @@
     "name": "Fahd",
     "username": "Mini",
     "phone": "+2348140087648",
-    "played": 49,
-    "wins": 33,
+    "played": 50,
+    "wins": 34,
     "draws": 2,
     "losses": 14,
-    "points": 101,
-    "gf": 34,
+    "points": 104,
+    "gf": 38,
     "ga": 15,
     "form": [
       "L",
-      "L",
       "W",
       "L",
       "L",
@@ -44,7 +43,8 @@
       "W",
       "W",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -157,13 +157,13 @@
     "name": "Kabo",
     "username": "Kaboman",
     "phone": "+27703896056",
-    "played": 50,
+    "played": 51,
     "wins": 16,
     "draws": 0,
-    "losses": 34,
+    "losses": 35,
     "points": 48,
     "gf": 22,
-    "ga": 37,
+    "ga": 41,
     "form": [
       "L",
       "L",
@@ -172,9 +172,9 @@
       "L",
       "L",
       "L",
-      "L",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 19,
     "suspended": false
