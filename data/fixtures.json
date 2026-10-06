@@ -33,13 +33,5 @@
     "away": "BunnyBearZA",
     "postponedBy": null,
     "scheduledDate": "2026-10-06"
-  },
-  {
-    "id": 1791286888572,
-    "home": "Angel",
-    "away": "YANITED",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-06",
-    "catchup": true
   }
 ]
