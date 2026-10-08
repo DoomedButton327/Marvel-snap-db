@@ -11,7 +11,7 @@
   {
     "id": 1791368658386,
     "home": "Angel",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
@@ -811,13 +811,13 @@
   },
   {
     "id": 1789124918880,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "YANITED",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
     "date": "2026-09-11",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-11/images/match_RobotChicken_vs_YANITED_1789124911520.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-11/images/match_DarkHawk_vs_YANITED_1789124911520.jpeg"
   },
   {
     "id": 1789078553789,
@@ -860,12 +860,12 @@
   {
     "id": 1789059902517,
     "home": "Kaboman",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
     "date": "2026-09-10",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-10/images/match_Kaboman_vs_RobotChicken_1789059897760.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-10/images/match_Kaboman_vs_DarkHawk_1789059897760.jpeg"
   },
   {
     "id": 1788989877510,
@@ -879,7 +879,7 @@
   {
     "id": 1788989783156,
     "home": "BullDOZER",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
@@ -923,7 +923,7 @@
   },
   {
     "id": 1788989512724,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "Rabbit",
     "result": "home",
     "homeGoals": 1,
@@ -933,12 +933,12 @@
   {
     "id": 1788989492920,
     "home": "BullDOZER",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "home",
     "homeGoals": 1,
     "awayGoals": 0,
     "date": "2026-09-08",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-08/images/match_BullDOZER_vs_RobotChicken_1788989483484.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-08/images/match_BullDOZER_vs_DarkHawk_1788989483484.jpeg"
   },
   {
     "id": 1788989476468,
@@ -1057,12 +1057,12 @@
   {
     "id": 1788645014752,
     "home": "Kaboman",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
     "date": "2026-09-05",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-05/images/match_Kaboman_vs_RobotChicken_1788645005544.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-05/images/match_Kaboman_vs_DarkHawk_1788645005544.jpeg"
   },
   {
     "id": 1788587655957,
@@ -1085,13 +1085,13 @@
   },
   {
     "id": 1788587564916,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "Incredible_Brad",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
     "date": "2026-09-04",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-04/images/match_RobotChicken_vs_Incredible_Brad_1788587557100.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-04/images/match_DarkHawk_vs_Incredible_Brad_1788587557100.jpeg"
   },
   {
     "id": 1788587550813,
@@ -1125,13 +1125,13 @@
   },
   {
     "id": 1788469205089,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "Astral_Reign",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
     "date": "2026-09-03",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-03/images/match_RobotChicken_vs_Astral_Reign_1788469193722.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-03/images/match_DarkHawk_vs_Astral_Reign_1788469193722.jpeg"
   },
   {
     "id": 1788467652268,
@@ -1176,12 +1176,12 @@
   {
     "id": 1788390151181,
     "home": "Astral_Reign",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "home",
     "homeGoals": 1,
     "awayGoals": 0,
     "date": "2026-09-02",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-02/images/match_Astral_Reign_vs_RobotChicken_1788390140616.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-02/images/match_Astral_Reign_vs_DarkHawk_1788390140616.jpeg"
   },
   {
     "id": 1788390137629,
@@ -1206,7 +1206,7 @@
   {
     "id": 1788301042462,
     "home": "Rabbit",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
@@ -1280,12 +1280,12 @@
   {
     "id": 1788217270503,
     "home": "Mini",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "home",
     "homeGoals": 1,
     "awayGoals": 0,
     "date": "2026-08-31",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-31/images/match_Mini_vs_RobotChicken_1788217259027.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-31/images/match_Mini_vs_DarkHawk_1788217259027.jpeg"
   },
   {
     "id": 1788217254168,
@@ -1300,12 +1300,12 @@
   {
     "id": 1788120552661,
     "home": "Rabbit",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "away",
     "homeGoals": 1,
     "awayGoals": 0,
     "date": "2026-08-29",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-29/images/match_Rabbit_vs_RobotChicken_1788120544244.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-29/images/match_Rabbit_vs_DarkHawk_1788120544244.jpeg"
   },
   {
     "id": 1788120475774,
@@ -1387,12 +1387,12 @@
   {
     "id": 1787955635988,
     "home": "BullDOZER",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "home",
     "homeGoals": 1,
     "awayGoals": 0,
     "date": "2026-08-28",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-28/images/match_BullDOZER_vs_RobotChicken_1787955631285.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-28/images/match_BullDOZER_vs_DarkHawk_1787955631285.jpeg"
   },
   {
     "id": 1787868020886,
@@ -1417,7 +1417,7 @@
   {
     "id": 1787867944929,
     "home": "LaMonK",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
@@ -1490,12 +1490,12 @@
   {
     "id": 1787784787995,
     "home": "Incredible_Brad",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "home",
     "homeGoals": 1,
     "awayGoals": 0,
     "date": "2026-08-26",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-26/images/match_Incredible_Brad_vs_RobotChicken_1787784778198.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-26/images/match_Incredible_Brad_vs_DarkHawk_1787784778198.jpeg"
   },
   {
     "id": 1787763693126,
@@ -1509,13 +1509,13 @@
   },
   {
     "id": 1787763681630,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "Mini",
     "result": "home",
     "homeGoals": 1,
     "awayGoals": 0,
     "date": "2026-08-25",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-25/images/match_RobotChicken_vs_Mini_1787763677675.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-25/images/match_DarkHawk_vs_Mini_1787763677675.jpeg"
   },
   {
     "id": 1787763677059,
@@ -1588,12 +1588,12 @@
   {
     "id": 1787608912195,
     "home": "Kaboman",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "away",
     "homeGoals": 1,
     "awayGoals": 0,
     "date": "2026-08-24",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-24/images/match_Kaboman_vs_RobotChicken_1787608904269.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-24/images/match_Kaboman_vs_DarkHawk_1787608904269.jpeg"
   },
   {
     "id": 1787608896980,
@@ -1617,13 +1617,13 @@
   },
   {
     "id": 1787439795493,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "Rabbit",
     "result": "home",
     "homeGoals": 1,
     "awayGoals": 0,
     "date": "2026-08-22",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-22/images/match_RobotChicken_vs_Rabbit_1787439786294.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-22/images/match_DarkHawk_vs_Rabbit_1787439786294.jpeg"
   },
   {
     "id": 1787416572114,
@@ -1666,13 +1666,13 @@
   },
   {
     "id": 1787351610309,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "Astral_Reign",
     "result": "home",
     "homeGoals": 1,
     "awayGoals": 0,
     "date": "2026-08-21",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-21/images/match_RobotChicken_vs_Astral_Reign_1787351606703.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-21/images/match_DarkHawk_vs_Astral_Reign_1787351606703.jpeg"
   },
   {
     "id": 1787351610687,
@@ -1744,13 +1744,13 @@
   },
   {
     "id": 1787261421101,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "Angel",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
     "date": "2026-08-20",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-20/images/match_RobotChicken_vs_Angel_1787261416148.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-20/images/match_DarkHawk_vs_Angel_1787261416148.jpeg"
   },
   {
     "id": 1787176482283,
@@ -1781,13 +1781,13 @@
   },
   {
     "id": 1787171473990,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "BunnyBearZA",
     "result": "home",
     "homeGoals": 1,
     "awayGoals": 0,
     "date": "2026-08-19",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-19/images/match_RobotChicken_vs_BunnyBearZA_1787171469111.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-19/images/match_DarkHawk_vs_BunnyBearZA_1787171469111.jpeg"
   },
   {
     "id": 1787135550380,
@@ -1875,7 +1875,7 @@
   },
   {
     "id": 1787062950984,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "Astral_Reign",
     "result": "home",
     "homeGoals": 1,
@@ -1884,13 +1884,13 @@
   },
   {
     "id": 1787007836173,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "BunnyBearZA",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
     "date": "2026-08-17",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-17/images/match_RobotChicken_vs_BunnyBearZA_1787007830624.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-17/images/match_DarkHawk_vs_BunnyBearZA_1787007830624.jpeg"
   },
   {
     "id": 1787007828129,
@@ -1959,7 +1959,7 @@
   },
   {
     "id": 1786902186211,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "BullDOZER",
     "result": "home",
     "homeGoals": 1,
@@ -2004,7 +2004,7 @@
   },
   {
     "id": 1786731290537,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "BunnyBearZA",
     "result": "away",
     "homeGoals": 0,
@@ -2070,7 +2070,7 @@
   {
     "id": 1786695053731,
     "home": "Angel",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
@@ -2078,7 +2078,7 @@
   },
   {
     "id": 1786600830753,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "Mini",
     "result": "draw",
     "homeGoals": 1,
@@ -2170,7 +2170,7 @@
   {
     "id": 1786517292041,
     "home": "Rabbit",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "away",
     "homeGoals": 1,
     "awayGoals": 0,
@@ -2233,7 +2233,7 @@
   {
     "id": 1786427756278,
     "home": "Astral_Reign",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
@@ -2250,7 +2250,7 @@
   },
   {
     "id": 1786178293163,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "Incredible_Brad",
     "result": "home",
     "homeGoals": 1,
@@ -2333,7 +2333,7 @@
   },
   {
     "id": 1786080348440,
-    "home": "RobotChicken",
+    "home": "DarkHawk",
     "away": "Kaboman",
     "result": "home",
     "homeGoals": 0,
@@ -2380,7 +2380,7 @@
   {
     "id": 1785951339028,
     "home": "BullDOZER",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "home",
     "homeGoals": 1,
     "awayGoals": 0,
@@ -2461,7 +2461,7 @@
   {
     "id": 1785853022852,
     "home": "Astral_Reign",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 1,
@@ -2497,7 +2497,7 @@
   {
     "id": 1785787737745,
     "home": "Mini",
-    "away": "RobotChicken",
+    "away": "DarkHawk",
     "result": "home",
     "homeGoals": 1,
     "awayGoals": 0,
