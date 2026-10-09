@@ -5,8 +5,9 @@
     "away": "BunnyBearZA",
     "result": "away",
     "homeGoals": 0,
-    "awayGoals": 1,
-    "date": "2026-10-08"
+    "awayGoals": 3,
+    "date": "2026-10-08",
+    "editedAt": "2026-10-09T06:52:02.392Z"
   },
   {
     "id": 1791528652563,
@@ -14,8 +15,9 @@
     "away": "DarkHawk",
     "result": "away",
     "homeGoals": 0,
-    "awayGoals": 1,
-    "date": "2026-10-08"
+    "awayGoals": 3,
+    "date": "2026-10-08",
+    "editedAt": "2026-10-09T06:52:05.235Z"
   },
   {
     "id": 1791528649576,
@@ -23,17 +25,19 @@
     "away": "DarkHawk",
     "result": "away",
     "homeGoals": 0,
-    "awayGoals": 1,
-    "date": "2026-10-08"
+    "awayGoals": 3,
+    "date": "2026-10-08",
+    "editedAt": "2026-10-09T06:52:10.699Z"
   },
   {
     "id": 1791528654437,
     "home": "Angel",
     "away": "DarkHawk",
     "result": "home",
-    "homeGoals": 1,
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-10-08"
+    "date": "2026-10-08",
+    "editedAt": "2026-10-09T06:52:13.699Z"
   },
   {
     "id": 1791406012773,
