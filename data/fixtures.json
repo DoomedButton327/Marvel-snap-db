@@ -112,20 +112,6 @@
     "scheduledDate": "2026-10-08"
   },
   {
-    "id": 1791328030013,
-    "home": "Angel",
-    "away": "DarkHawk",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
-    "id": 1791328030014,
-    "home": "Angel",
-    "away": "DarkHawk",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
     "id": 1791328030015,
     "home": "YANITED",
     "away": "BunnyBearZA",
@@ -157,13 +143,6 @@
     "id": 1791328030019,
     "home": "Astral_Reign",
     "away": "BunnyBearZA",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
-    "id": 1791328030020,
-    "home": "Angel",
-    "away": "DarkHawk",
     "postponedBy": null,
     "scheduledDate": "2026-10-08"
   }
