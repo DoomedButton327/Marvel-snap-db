@@ -7,7 +7,7 @@
     "wins": 3,
     "draws": 0,
     "losses": 5,
-    "points": 0,
+    "points": 9,
     "gf": 0,
     "ga": 8,
     "form": [
@@ -31,7 +31,7 @@
     "wins": 40,
     "draws": 2,
     "losses": 13,
-    "points": 40,
+    "points": 122,
     "gf": 41,
     "ga": 17,
     "form": [
@@ -42,9 +42,9 @@
       "W",
       "W",
       "W",
-      "W",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -57,7 +57,7 @@
     "wins": 26,
     "draws": 0,
     "losses": 30,
-    "points": 25,
+    "points": 78,
     "gf": 25,
     "ga": 42,
     "form": [
@@ -83,7 +83,7 @@
     "wins": 27,
     "draws": 1,
     "losses": 15,
-    "points": 27,
+    "points": 82,
     "gf": 28,
     "ga": 22,
     "form": [
@@ -91,12 +91,12 @@
       "W",
       "W",
       "W",
+      "W",
+      "W",
       "L",
-      "L",
       "W",
       "W",
-      "W",
-      "W"
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -109,7 +109,7 @@
     "wins": 5,
     "draws": 0,
     "losses": 11,
-    "points": 1,
+    "points": 15,
     "gf": 5,
     "ga": 9,
     "form": [
@@ -135,7 +135,7 @@
     "wins": 41,
     "draws": 1,
     "losses": 11,
-    "points": 38,
+    "points": 124,
     "gf": 38,
     "ga": 19,
     "form": [
@@ -161,7 +161,7 @@
     "wins": 9,
     "draws": 0,
     "losses": 42,
-    "points": 3,
+    "points": 27,
     "gf": 22,
     "ga": 41,
     "form": [
@@ -187,7 +187,7 @@
     "wins": 2,
     "draws": 0,
     "losses": 31,
-    "points": 1,
+    "points": 6,
     "gf": 12,
     "ga": 18,
     "form": [
@@ -213,7 +213,7 @@
     "wins": 30,
     "draws": 3,
     "losses": 16,
-    "points": 36,
+    "points": 93,
     "gf": 36,
     "ga": 35,
     "form": [
@@ -239,7 +239,7 @@
     "wins": 35,
     "draws": 2,
     "losses": 14,
-    "points": 45,
+    "points": 107,
     "gf": 45,
     "ga": 15,
     "form": [
@@ -265,7 +265,7 @@
     "wins": 25,
     "draws": 1,
     "losses": 24,
-    "points": 21,
+    "points": 76,
     "gf": 21,
     "ga": 29,
     "form": [
@@ -291,7 +291,7 @@
     "wins": 26,
     "draws": 0,
     "losses": 29,
-    "points": 22,
+    "points": 78,
     "gf": 22,
     "ga": 36,
     "form": [
