@@ -1,61 +1,5 @@
 [
   {
-    "id": 1791154917982,
-    "home": "BullDOZER",
-    "away": "Incredible_Brad",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-05"
-  },
-  {
-    "id": 1791241609480,
-    "home": "Incredible_Brad",
-    "away": "YANITED",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-06"
-  },
-  {
-    "id": 1791328027038,
-    "home": "DarkHawk",
-    "away": "BullDOZER",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-07"
-  },
-  {
-    "id": 1791328025243,
-    "home": "Incredible_Brad",
-    "away": "Mini",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-07"
-  },
-  {
-    "id": 1791328030001,
-    "home": "YANITED",
-    "away": "DarkHawk",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
-    "id": 1791328030002,
-    "home": "YANITED",
-    "away": "DarkHawk",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
-    "id": 1791328030005,
-    "home": "BullDOZER",
-    "away": "DarkHawk",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
-    "id": 1791328030006,
-    "home": "BullDOZER",
-    "away": "DarkHawk",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
     "id": 1791328030007,
     "home": "BunnyBearZA",
     "away": "DarkHawk",
@@ -94,13 +38,6 @@
     "id": 1791328030018,
     "home": "Incredible_Brad",
     "away": "DarkHawk",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
-    "id": 1791328030019,
-    "home": "Astral_Reign",
-    "away": "BunnyBearZA",
     "postponedBy": null,
     "scheduledDate": "2026-10-08"
   }
