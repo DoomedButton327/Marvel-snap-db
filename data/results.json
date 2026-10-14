@@ -2607,5 +2607,86 @@
     "homeGoals": 0,
     "awayGoals": 1,
     "date": "2026-08-03"
+  },
+  {
+    "id": 1791968794387,
+    "home": "BullDOZER",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791968813955,
+    "home": "Incredible_Brad",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-07"
+  },
+  {
+    "id": 1791968823577,
+    "home": "YANITED",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791968828350,
+    "home": "YANITED",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791968837093,
+    "home": "DarkHawk",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-07"
+  },
+  {
+    "id": 1791968842074,
+    "home": "BullDOZER",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-05"
+  },
+  {
+    "id": 1791968850472,
+    "home": "Astral_Reign",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791968871691,
+    "home": "BullDOZER",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791969028275,
+    "home": "Incredible_Brad",
+    "away": "YANITED",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-10-06"
   }
 ]
