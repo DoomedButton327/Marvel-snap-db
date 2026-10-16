@@ -1,47 +1,5 @@
 [
   {
-    "id": 1791328030007,
-    "home": "BunnyBearZA",
-    "away": "DarkHawk",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
-    "id": 1791328030008,
-    "home": "BunnyBearZA",
-    "away": "DarkHawk",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
-    "id": 1791328030009,
-    "home": "Incredible_Brad",
-    "away": "DarkHawk",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
-    "id": 1791328030010,
-    "home": "Incredible_Brad",
-    "away": "DarkHawk",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
-    "id": 1791328030017,
-    "home": "BullDOZER",
-    "away": "BunnyBearZA",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
-    "id": 1791328030018,
-    "home": "Incredible_Brad",
-    "away": "DarkHawk",
-    "postponedBy": null,
-    "scheduledDate": "2026-10-08"
-  },
-  {
     "id": 1792144388975,
     "home": "BunnyBearZA",
     "away": "Incredible_Brad",
@@ -68,5 +26,4 @@
     "away": "BullDOZER",
     "postponedBy": null,
     "scheduledDate": "2026-10-16"
-  }
-]
+  }]
