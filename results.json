@@ -1,0 +1,2755 @@
+[
+  {
+    "id": 1791328030017,
+    "home": "BullDOZER",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-14"
+  },
+  {
+    "id": 1791328030008,
+    "home": "BunnyBearZA",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-14"
+  },
+  {
+    "id": 1791328030007,
+    "home": "BunnyBearZA",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-14"
+  },
+  {
+    "id": 1791328030018,
+    "home": "Incredible_Brad",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-14"
+  },
+  {
+    "id": 1791328030010,
+    "home": "Incredible_Brad",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-14"
+  },
+  {
+    "id": 1791328030009,
+    "home": "Incredible_Brad",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-14"
+  },
+  {
+    "id": 1791929386666,
+    "home": "Astral_Reign",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-14"
+  },
+  {
+    "id": 1791873351509,
+    "home": "Astral_Reign",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791873349721,
+    "home": "Astral_Reign",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791873338480,
+    "home": "Mini",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791873329320,
+    "home": "Mini",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791873321306,
+    "home": "Mini",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791528723415,
+    "home": "YANITED",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-10-08",
+    "editedAt": "2026-10-09T06:52:02.392Z"
+  },
+  {
+    "id": 1791528652563,
+    "home": "Angel",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-10-08",
+    "editedAt": "2026-10-09T06:52:05.235Z"
+  },
+  {
+    "id": 1791528649576,
+    "home": "Angel",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-10-08",
+    "editedAt": "2026-10-09T06:52:10.699Z"
+  },
+  {
+    "id": 1791528654437,
+    "home": "Angel",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-10-08",
+    "editedAt": "2026-10-09T06:52:13.699Z"
+  },
+  {
+    "id": 1791406012773,
+    "home": "YANITED",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-07"
+  },
+  {
+    "id": 1791368658386,
+    "home": "Angel",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-07"
+  },
+  {
+    "id": 1791368260525,
+    "home": "Kaboman",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-06"
+  },
+  {
+    "id": 1791368273065,
+    "home": "Astral_Reign",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-06"
+  },
+  {
+    "id": 1791328009306,
+    "home": "Mini",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-06",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-10-06/images/match_Mini_vs_Angel_1791328006721.jpeg"
+  },
+  {
+    "id": 1791241598127,
+    "home": "BunnyBearZA",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-05"
+  },
+  {
+    "id": 1791219046542,
+    "home": "Incredible_Brad",
+    "away": "BullDOZER",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-10-03"
+  },
+  {
+    "id": 1791218002287,
+    "home": "Mini",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "date": "2026-10-03"
+  },
+  {
+    "id": 1791217064390,
+    "home": "Astral_Reign",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 4,
+    "date": "2026-10-05"
+  },
+  {
+    "id": 1791216554414,
+    "home": "Angel",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 4,
+    "date": "2026-10-05"
+  },
+  {
+    "id": 1791191659549,
+    "home": "BullDOZER",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "date": "2026-09-22"
+  },
+  {
+    "id": 1791191647106,
+    "home": "BullDOZER",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "date": "2026-09-22"
+  },
+  {
+    "id": 1791191629044,
+    "home": "BullDOZER",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "date": "2026-09-22"
+  },
+  {
+    "id": 1791191621321,
+    "home": "Kaboman",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 4,
+    "date": "2026-09-22"
+  },
+  {
+    "id": 1791191182241,
+    "home": "BunnyBearZA",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-10-03"
+  },
+  {
+    "id": 1791190483540,
+    "home": "BullDOZER",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "date": "2026-09-28"
+  },
+  {
+    "id": 1791190481559,
+    "home": "BunnyBearZA",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 4,
+    "date": "2026-10-01"
+  },
+  {
+    "id": 1791190213736,
+    "home": "Astral_Reign",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-03",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-10-03/images/match_Astral_Reign_vs_Angel_1791190202994.jpeg"
+  },
+  {
+    "id": 1791190135268,
+    "home": "Angel",
+    "away": "Incredible_Brad",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-10-05",
+    "forfeit": true,
+    "autoForfeit": false
+  },
+  {
+    "id": 1790898237368,
+    "home": "Mini",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-30",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-30/images/match_Mini_vs_BunnyBearZA_1790898227363.jpeg"
+  },
+  {
+    "id": 1790895950780,
+    "home": "BullDOZER",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-01",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-10-01/images/match_BullDOZER_vs_Astral_Reign_1790895943137.jpeg"
+  },
+  {
+    "id": 1790895937269,
+    "home": "YANITED",
+    "away": "Mini",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-01",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-10-01/images/match_YANITED_vs_Mini_1790895933737.jpeg"
+  },
+  {
+    "id": 1790895934359,
+    "home": "BullDOZER",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-29",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-29/images/match_BullDOZER_vs_Kaboman_1790895924086.jpeg"
+  },
+  {
+    "id": 1790837193121,
+    "home": "YANITED",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-29"
+  },
+  {
+    "id": 1790787653735,
+    "home": "Incredible_Brad",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-29"
+  },
+  {
+    "id": 1790787622380,
+    "home": "BullDOZER",
+    "away": "Angel",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-30"
+  },
+  {
+    "id": 1790787569289,
+    "home": "YANITED",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-30",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-30/images/match_YANITED_vs_Kaboman_1790787566582.jpeg"
+  },
+  {
+    "id": 1790787568333,
+    "home": "Incredible_Brad",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-30",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-30/images/match_Incredible_Brad_vs_Astral_Reign_1790787556969.jpeg"
+  },
+  {
+    "id": 1790723133916,
+    "home": "Astral_Reign",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-29",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-29/images/match_Astral_Reign_vs_Mini_1790723129502.jpeg"
+  },
+  {
+    "id": 1790708545892,
+    "home": "Mini",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-28",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-28/images/match_Mini_vs_Angel_1790708541083.jpeg"
+  },
+  {
+    "id": 1790664852324,
+    "home": "YANITED",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-28",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-28/images/match_YANITED_vs_Kaboman_1790664847952.jpeg"
+  },
+  {
+    "id": 1790664843579,
+    "home": "Astral_Reign",
+    "away": "Incredible_Brad",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-28",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-28/images/match_Astral_Reign_vs_Incredible_Brad_1790664838034.jpeg"
+  },
+  {
+    "id": 1790606558172,
+    "home": "Angel",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-25"
+  },
+  {
+    "id": 1790463939584,
+    "home": "Mini",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-23",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-23/images/match_Mini_vs_BunnyBearZA_1790463934947.jpeg"
+  },
+  {
+    "id": 1790453216922,
+    "home": "YANITED",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-22",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-22/images/match_YANITED_vs_BunnyBearZA_1790453205900.jpeg"
+  },
+  {
+    "id": 1790453154928,
+    "home": "YANITED",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-25",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-25/images/match_YANITED_vs_Incredible_Brad_1790453144075.jpeg"
+  },
+  {
+    "id": 1790453130958,
+    "home": "Mini",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-25"
+  },
+  {
+    "id": 1790377540939,
+    "home": "BullDOZER",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-25",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-25/images/match_BullDOZER_vs_Kaboman_1790377533112.jpeg"
+  },
+  {
+    "id": 1790212872127,
+    "home": "Mini",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-22",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-22/images/match_Mini_vs_BunnyBearZA_1790212862156.jpeg"
+  },
+  {
+    "id": 1790212723304,
+    "home": "Astral_Reign",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-22",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-22/images/match_Astral_Reign_vs_BunnyBearZA_1790212721121.jpeg"
+  },
+  {
+    "id": 1790204752950,
+    "home": "Astral_Reign",
+    "away": "Incredible_Brad",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-23",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-23/images/match_Astral_Reign_vs_Incredible_Brad_1790204748479.jpeg"
+  },
+  {
+    "id": 1790204742498,
+    "home": "Angel",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-23",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-23/images/match_Angel_vs_BullDOZER_1790204732091.jpeg"
+  },
+  {
+    "id": 1790160823750,
+    "home": "YANITED",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-23",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-23/images/match_YANITED_vs_Kaboman_1790160815251.jpeg"
+  },
+  {
+    "id": 1790119070685,
+    "home": "Astral_Reign",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-22"
+  },
+  {
+    "id": 1790118046917,
+    "home": "Incredible_Brad",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-22",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-22/images/match_Incredible_Brad_vs_BunnyBearZA_1790118038462.jpeg"
+  },
+  {
+    "id": 1790118039034,
+    "home": "Kaboman",
+    "away": "Angel",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-22",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-22/images/match_Kaboman_vs_Angel_1790118027071.jpeg"
+  },
+  {
+    "id": 1790118021160,
+    "home": "BullDOZER",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-22",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-22/images/match_BullDOZER_vs_Mini_1790118016364.jpeg"
+  },
+  {
+    "id": 1790032411038,
+    "home": "Incredible_Brad",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-21",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-21/images/match_Incredible_Brad_vs_YANITED_1790032402523.jpeg"
+  },
+  {
+    "id": 1789993076641,
+    "home": "BunnyBearZA",
+    "away": "Mini",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-21",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-21/images/match_BunnyBearZA_vs_Mini_1789993066258.jpeg"
+  },
+  {
+    "id": 1789993065643,
+    "home": "Angel",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-21",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-21/images/match_Angel_vs_Kaboman_1789993057078.jpeg"
+  },
+  {
+    "id": 1789993051609,
+    "home": "Astral_Reign",
+    "away": "BullDOZER",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-21",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-21/images/match_Astral_Reign_vs_BullDOZER_1789993047534.jpeg"
+  },
+  {
+    "id": 1789859609896,
+    "home": "BullDOZER",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-19",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-19/images/match_BullDOZER_vs_Kaboman_1789859606266.jpeg"
+  },
+  {
+    "id": 1789859608162,
+    "home": "BunnyBearZA",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-19",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-19/images/match_BunnyBearZA_vs_Incredible_Brad_1789859597202.jpeg"
+  },
+  {
+    "id": 1789854800081,
+    "home": "BullDOZER",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-18",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-18/images/match_BullDOZER_vs_BunnyBearZA_1789854790982.jpeg"
+  },
+  {
+    "id": 1789854789451,
+    "home": "BunnyBearZA",
+    "away": "Incredible_Brad",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-15",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-15/images/match_BunnyBearZA_vs_Incredible_Brad_1789854787157.jpeg"
+  },
+  {
+    "id": 1789848027261,
+    "home": "YANITED",
+    "away": "Mini",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-19",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-19/images/match_YANITED_vs_Mini_1789848016800.jpeg"
+  },
+  {
+    "id": 1789848011123,
+    "home": "Angel",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-19",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-19/images/match_Angel_vs_Astral_Reign_1789848006776.jpeg"
+  },
+  {
+    "id": 1789776558227,
+    "home": "Astral_Reign",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-18"
+  },
+  {
+    "id": 1789773200625,
+    "home": "Mini",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-18",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-18/images/match_Mini_vs_Kaboman_1789773193766.jpeg"
+  },
+  {
+    "id": 1789728066298,
+    "home": "Angel",
+    "away": "YANITED",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-18",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-18/images/match_Angel_vs_YANITED_1789728061006.jpeg"
+  },
+  {
+    "id": 1789686810362,
+    "home": "Kaboman",
+    "away": "Incredible_Brad",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-17",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-17/images/match_Kaboman_vs_Incredible_Brad_1789686805303.jpeg"
+  },
+  {
+    "id": 1789683779265,
+    "home": "Astral_Reign",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-17",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-17/images/match_Astral_Reign_vs_BunnyBearZA_1789683770319.jpeg"
+  },
+  {
+    "id": 1789683674655,
+    "home": "BunnyBearZA",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-17",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-17/images/match_BunnyBearZA_vs_BullDOZER_1789683668940.jpeg"
+  },
+  {
+    "id": 1789658956515,
+    "home": "BunnyBearZA",
+    "away": "Angel",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-15",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-15/images/match_BunnyBearZA_vs_Angel_1789658947929.jpeg"
+  },
+  {
+    "id": 1789658744989,
+    "home": "Angel",
+    "away": "YANITED",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-17",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-17/images/match_Angel_vs_YANITED_1789658741713.jpeg"
+  },
+  {
+    "id": 1789658681428,
+    "home": "Astral_Reign",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-16",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-16/images/match_Astral_Reign_vs_Incredible_Brad_1789658671059.jpeg"
+  },
+  {
+    "id": 1789658531301,
+    "home": "Astral_Reign",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-17",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-17/images/match_Astral_Reign_vs_Mini_1789658521484.jpeg"
+  },
+  {
+    "id": 1789597343432,
+    "home": "YANITED",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": 1789597061892,
+    "home": "Mini",
+    "away": "BullDOZER",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-15"
+  },
+  {
+    "id": 1789597041476,
+    "home": "Mini",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-16"
+  },
+  {
+    "id": 1789596976148,
+    "home": "BunnyBearZA",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-15"
+  },
+  {
+    "id": 1789596617700,
+    "home": "Kaboman",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-16",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-16/images/match_Kaboman_vs_BullDOZER_1789596613169.jpeg"
+  },
+  {
+    "id": 1789513604097,
+    "home": "BunnyBearZA",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 4,
+    "awayGoals": 0,
+    "date": "2026-09-16",
+    "forfeit": true,
+    "autoForfeit": false
+  },
+  {
+    "id": 1789469432575,
+    "home": "BunnyBearZA",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-15",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-15/images/match_BunnyBearZA_vs_Angel_1789469422417.jpeg"
+  },
+  {
+    "id": 1789468288516,
+    "home": "YANITED",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-15"
+  },
+  {
+    "id": 1789467797045,
+    "home": "Kaboman",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-15"
+  },
+  {
+    "id": 1789467795728,
+    "home": "YANITED",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-14"
+  },
+  {
+    "id": 1789426992254,
+    "home": "Mini",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-11"
+  },
+  {
+    "id": 1789406233879,
+    "home": "Mini",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-14",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-14/images/match_Mini_vs_Angel_1789406229215.jpeg"
+  },
+  {
+    "id": 1789406228485,
+    "home": "Astral_Reign",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-14",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-14/images/match_Astral_Reign_vs_Kaboman_1789406220215.jpeg"
+  },
+  {
+    "id": 1789406221590,
+    "home": "Incredible_Brad",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-14",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-14/images/match_Incredible_Brad_vs_BullDOZER_1789406211349.jpeg"
+  },
+  {
+    "id": 1789168272856,
+    "home": "BullDOZER",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-11"
+  },
+  {
+    "id": 1789153773110,
+    "home": "Kaboman",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-11",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-11/images/match_Kaboman_vs_Astral_Reign_1789153763669.jpeg"
+  },
+  {
+    "id": 1789125189419,
+    "home": "Incredible_Brad",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-11",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-11/images/match_Incredible_Brad_vs_Angel_1789125183392.jpeg"
+  },
+  {
+    "id": 1789124918880,
+    "home": "DarkHawk",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-11",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-11/images/match_DarkHawk_vs_YANITED_1789124911520.jpeg"
+  },
+  {
+    "id": 1789078553789,
+    "home": "Astral_Reign",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-10",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-10/images/match_Astral_Reign_vs_BullDOZER_1789078541759.jpeg"
+  },
+  {
+    "id": 1789060192925,
+    "home": "LaMonK",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-10"
+  },
+  {
+    "id": 1789060182524,
+    "home": "Angel",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-10"
+  },
+  {
+    "id": 1789059909650,
+    "home": "YANITED",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-10",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-10/images/match_YANITED_vs_Incredible_Brad_1789059907031.jpeg"
+  },
+  {
+    "id": 1789059902517,
+    "home": "Kaboman",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-10",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-10/images/match_Kaboman_vs_DarkHawk_1789059897760.jpeg"
+  },
+  {
+    "id": 1788989877510,
+    "home": "Kaboman",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-09"
+  },
+  {
+    "id": 1788989783156,
+    "home": "BullDOZER",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-09"
+  },
+  {
+    "id": 1788989661894,
+    "home": "Incredible_Brad",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-09"
+  },
+  {
+    "id": 1788989656741,
+    "home": "LaMonK",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-08"
+  },
+  {
+    "id": 1788989642220,
+    "home": "LaMonK",
+    "away": "Kaboman",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-07"
+  },
+  {
+    "id": 1788989519566,
+    "home": "Rabbit",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-08"
+  },
+  {
+    "id": 1788989512724,
+    "home": "DarkHawk",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-07"
+  },
+  {
+    "id": 1788989492920,
+    "home": "BullDOZER",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-08",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-08/images/match_BullDOZER_vs_DarkHawk_1788989483484.jpeg"
+  },
+  {
+    "id": 1788989476468,
+    "home": "YANITED",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-09",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-09/images/match_YANITED_vs_Angel_1788989474246.jpeg"
+  },
+  {
+    "id": 1788989241045,
+    "home": "Kaboman",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-08"
+  },
+  {
+    "id": 1788989231309,
+    "home": "Mini",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-09"
+  },
+  {
+    "id": 1788908920433,
+    "home": "Incredible_Brad",
+    "away": "Angel",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-08",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-08/images/match_Incredible_Brad_vs_Angel_1788908913978.jpeg"
+  },
+  {
+    "id": 1788816601874,
+    "home": "YANITED",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-07",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-07/images/match_YANITED_vs_BullDOZER_1788816592838.jpeg"
+  },
+  {
+    "id": 1788816591837,
+    "home": "Mini",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-07"
+  },
+  {
+    "id": 1788816459002,
+    "home": "Astral_Reign",
+    "away": "Incredible_Brad",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-07",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-07/images/match_Astral_Reign_vs_Incredible_Brad_1788816448704.jpeg"
+  },
+  {
+    "id": 1788693261854,
+    "home": "Astral_Reign",
+    "away": "BullDOZER",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-05"
+  },
+  {
+    "id": 1788693262044,
+    "home": "Incredible_Brad",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-05"
+  },
+  {
+    "id": 1788649930311,
+    "home": "BullDOZER",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-03",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-03/images/match_BullDOZER_vs_Rabbit_1788649924442.jpeg"
+  },
+  {
+    "id": 1788645261040,
+    "home": "Angel",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-05"
+  },
+  {
+    "id": 1788645022482,
+    "home": "Rabbit",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-05",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-05/images/match_Rabbit_vs_Mini_1788645014418.jpeg"
+  },
+  {
+    "id": 1788645014752,
+    "home": "Kaboman",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-05",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-05/images/match_Kaboman_vs_DarkHawk_1788645005544.jpeg"
+  },
+  {
+    "id": 1788587655957,
+    "home": "Rabbit",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-04"
+  },
+  {
+    "id": 1788587576917,
+    "home": "Angel",
+    "away": "YANITED",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-03",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-03/images/match_Angel_vs_YANITED_1788587565770.jpeg"
+  },
+  {
+    "id": 1788587564916,
+    "home": "DarkHawk",
+    "away": "Incredible_Brad",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-04",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-04/images/match_DarkHawk_vs_Incredible_Brad_1788587557100.jpeg"
+  },
+  {
+    "id": 1788587550813,
+    "home": "Mini",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-04",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-04/images/match_Mini_vs_Kaboman_1788587548004.jpeg"
+  },
+  {
+    "id": 1788563529686,
+    "home": "Angel",
+    "away": "BullDOZER",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-04",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-04/images/match_Angel_vs_BullDOZER_1788563526053.jpeg"
+  },
+  {
+    "id": 1788563523516,
+    "home": "YANITED",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-04",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-04/images/match_YANITED_vs_LaMonK_1788563514720.jpeg"
+  },
+  {
+    "id": 1788469205089,
+    "home": "DarkHawk",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-03",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-03/images/match_DarkHawk_vs_Astral_Reign_1788469193722.jpeg"
+  },
+  {
+    "id": 1788467652268,
+    "home": "BullDOZER",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-02",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-02/images/match_BullDOZER_vs_Incredible_Brad_1788467643472.jpeg"
+  },
+  {
+    "id": 1788467644158,
+    "home": "Mini",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-02",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-02/images/match_Mini_vs_Rabbit_1788467632730.jpeg"
+  },
+  {
+    "id": 1788467448139,
+    "home": "Incredible_Brad",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-03",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-03/images/match_Incredible_Brad_vs_Kaboman_1788467440030.jpeg"
+  },
+  {
+    "id": 1788467348754,
+    "home": "Mini",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-03",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-03/images/match_Mini_vs_LaMonK_1788467343946.jpeg"
+  },
+  {
+    "id": 1788390151181,
+    "home": "Astral_Reign",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-02",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-02/images/match_Astral_Reign_vs_DarkHawk_1788390140616.jpeg"
+  },
+  {
+    "id": 1788390137629,
+    "home": "Kaboman",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-02",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-02/images/match_Kaboman_vs_LaMonK_1788390130271.jpeg"
+  },
+  {
+    "id": 1788390127805,
+    "home": "Angel",
+    "away": "YANITED",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-02",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-02/images/match_Angel_vs_YANITED_1788390119828.jpeg"
+  },
+  {
+    "id": 1788301042462,
+    "home": "Rabbit",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-01"
+  },
+  {
+    "id": 1788300947381,
+    "home": "Kaboman",
+    "away": "Incredible_Brad",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-09-01"
+  },
+  {
+    "id": 1788300769155,
+    "home": "Mini",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-01"
+  },
+  {
+    "id": 1788300732560,
+    "home": "Astral_Reign",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-01"
+  },
+  {
+    "id": 1788300606194,
+    "home": "Incredible_Brad",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-08-31"
+  },
+  {
+    "id": 1788300553025,
+    "home": "Rabbit",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-31"
+  },
+  {
+    "id": 1788300455307,
+    "home": "YANITED",
+    "away": "BullDOZER",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-09-01",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-09-01/images/match_YANITED_vs_BullDOZER_1788300449631.jpeg"
+  },
+  {
+    "id": 1788217274329,
+    "home": "Astral_Reign",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-31",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-31/images/match_Astral_Reign_vs_YANITED_1788217268652.jpeg"
+  },
+  {
+    "id": 1788217270503,
+    "home": "Mini",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-31",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-31/images/match_Mini_vs_DarkHawk_1788217259027.jpeg"
+  },
+  {
+    "id": 1788217254168,
+    "home": "Angel",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-31",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-31/images/match_Angel_vs_Kaboman_1788217249546.jpeg"
+  },
+  {
+    "id": 1788120552661,
+    "home": "Rabbit",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-29",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-29/images/match_Rabbit_vs_DarkHawk_1788120544244.jpeg"
+  },
+  {
+    "id": 1788120475774,
+    "home": "Rabbit",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-28"
+  },
+  {
+    "id": 1788120428251,
+    "home": "LaMonK",
+    "away": "Angel",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-29"
+  },
+  {
+    "id": 1788045140029,
+    "home": "YANITED",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-29",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-29/images/match_YANITED_vs_Mini_1788045137416.jpeg"
+  },
+  {
+    "id": 1788045132872,
+    "home": "Kaboman",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-29",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-29/images/match_Kaboman_vs_BullDOZER_1788045127735.jpeg"
+  },
+  {
+    "id": 1788001975840,
+    "home": "Astral_Reign",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-29",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-29/images/match_Astral_Reign_vs_Incredible_Brad_1788001967223.jpeg"
+  },
+  {
+    "id": 1787955754778,
+    "home": "Incredible_Brad",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-28"
+  },
+  {
+    "id": 1787955658458,
+    "home": "Kaboman",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-28",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-28/images/match_Kaboman_vs_Mini_1787955649082.jpeg"
+  },
+  {
+    "id": 1787955648828,
+    "home": "Angel",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-28",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-28/images/match_Angel_vs_Astral_Reign_1787955640288.jpeg"
+  },
+  {
+    "id": 1787955635988,
+    "home": "BullDOZER",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-28",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-28/images/match_BullDOZER_vs_DarkHawk_1787955631285.jpeg"
+  },
+  {
+    "id": 1787868020886,
+    "home": "Incredible_Brad",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-27",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-27/images/match_Incredible_Brad_vs_Rabbit_1787868008374.jpeg"
+  },
+  {
+    "id": 1787868004362,
+    "home": "BullDOZER",
+    "away": "Angel",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-27",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-27/images/match_BullDOZER_vs_Angel_1787867999691.jpeg"
+  },
+  {
+    "id": 1787867944929,
+    "home": "LaMonK",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-27"
+  },
+  {
+    "id": 1787867873320,
+    "home": "Kaboman",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-27"
+  },
+  {
+    "id": 1787867833056,
+    "home": "YANITED",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-27",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-27/images/match_YANITED_vs_Astral_Reign_1787867821235.jpeg"
+  },
+  {
+    "id": 1787785084678,
+    "home": "BunnyBearZA",
+    "away": "Mini",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-08-26"
+  },
+  {
+    "id": 1787785079020,
+    "home": "YANITED",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-08-25"
+  },
+  {
+    "id": 1787785065344,
+    "home": "YANITED",
+    "away": "BunnyBearZA",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-08-24"
+  },
+  {
+    "id": 1787785059058,
+    "home": "BunnyBearZA",
+    "away": "BullDOZER",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-08-22"
+  },
+  {
+    "id": 1787784854545,
+    "home": "Rabbit",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-26"
+  },
+  {
+    "id": 1787784787995,
+    "home": "Incredible_Brad",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-26",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-26/images/match_Incredible_Brad_vs_DarkHawk_1787784778198.jpeg"
+  },
+  {
+    "id": 1787763693126,
+    "home": "Angel",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-26",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-26/images/match_Angel_vs_YANITED_1787763686734.jpeg"
+  },
+  {
+    "id": 1787763681630,
+    "home": "DarkHawk",
+    "away": "Mini",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-25",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-25/images/match_DarkHawk_vs_Mini_1787763677675.jpeg"
+  },
+  {
+    "id": 1787763677059,
+    "home": "BunnyBearZA",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-25",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-25/images/match_BunnyBearZA_vs_Angel_1787763668979.jpeg"
+  },
+  {
+    "id": 1787763668661,
+    "home": "Astral_Reign",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-25",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-25/images/match_Astral_Reign_vs_BullDOZER_1787763660205.jpeg"
+  },
+  {
+    "id": 1787763662486,
+    "home": "LaMonK",
+    "away": "Kaboman",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-26"
+  },
+  {
+    "id": 1787763650389,
+    "home": "Kaboman",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-25"
+  },
+  {
+    "id": 1787699505271,
+    "home": "Mini",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-24",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-24/images/match_Mini_vs_LaMonK_1787699494736.jpeg"
+  },
+  {
+    "id": 1787609436175,
+    "home": "Mini",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-22",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-22/images/match_Mini_vs_Incredible_Brad_1787609430740.jpeg"
+  },
+  {
+    "id": 1787609431710,
+    "home": "Kaboman",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-22",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-22/images/match_Kaboman_vs_LaMonK_1787609422328.jpeg"
+  },
+  {
+    "id": 1787608912195,
+    "home": "Kaboman",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-24",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-24/images/match_Kaboman_vs_DarkHawk_1787608904269.jpeg"
+  },
+  {
+    "id": 1787608896980,
+    "home": "Angel",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-24",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-24/images/match_Angel_vs_Incredible_Brad_1787608893331.jpeg"
+  },
+  {
+    "id": 1787608887443,
+    "home": "Astral_Reign",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-24",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-24/images/match_Astral_Reign_vs_Rabbit_1787608884015.jpeg"
+  },
+  {
+    "id": 1787439795493,
+    "home": "DarkHawk",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-22",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-22/images/match_DarkHawk_vs_Rabbit_1787439786294.jpeg"
+  },
+  {
+    "id": 1787416572114,
+    "home": "YANITED",
+    "away": "Angel",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-22",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-22/images/match_YANITED_vs_Angel_1787416566832.jpeg"
+  },
+  {
+    "id": 1787351933139,
+    "home": "YANITED",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-21",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-21/images/match_YANITED_vs_LaMonK_1787351921348.jpeg"
+  },
+  {
+    "id": 1787351923325,
+    "home": "Mini",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-21"
+  },
+  {
+    "id": 1787351635861,
+    "home": "BunnyBearZA",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-21",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-21/images/match_BunnyBearZA_vs_Kaboman_1787351625430.jpeg"
+  },
+  {
+    "id": 1787351610309,
+    "home": "DarkHawk",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-21",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-21/images/match_DarkHawk_vs_Astral_Reign_1787351606703.jpeg"
+  },
+  {
+    "id": 1787351610687,
+    "home": "Angel",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-21",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-21/images/match_Angel_vs_BullDOZER_1787351599839.jpeg"
+  },
+  {
+    "id": 1787307816798,
+    "home": "Rabbit",
+    "away": "Emmanuel",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-21"
+  },
+  {
+    "id": 1787261784952,
+    "home": "BullDOZER",
+    "away": "Emmanuel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-20"
+  },
+  {
+    "id": 1787261499706,
+    "home": "Incredible_Brad",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-20",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-20/images/match_Incredible_Brad_vs_BunnyBearZA_1787261489187.jpeg"
+  },
+  {
+    "id": 1787261493812,
+    "home": "LaMonK",
+    "away": "Kaboman",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-20",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-20/images/match_LaMonK_vs_Kaboman_1787261485081.jpeg"
+  },
+  {
+    "id": 1787261457107,
+    "home": "YANITED",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-20",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-20/images/match_YANITED_vs_Astral_Reign_1787261450071.jpeg"
+  },
+  {
+    "id": 1787261435375,
+    "home": "Rabbit",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-20",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-20/images/match_Rabbit_vs_Mini_1787261424128.jpeg"
+  },
+  {
+    "id": 1787261421101,
+    "home": "DarkHawk",
+    "away": "Angel",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-20",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-20/images/match_DarkHawk_vs_Angel_1787261416148.jpeg"
+  },
+  {
+    "id": 1787176482283,
+    "home": "Astral_Reign",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-19"
+  },
+  {
+    "id": 1787171798421,
+    "home": "Incredible_Brad",
+    "away": "Emmanuel",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-19"
+  },
+  {
+    "id": 1787171485304,
+    "home": "Kaboman",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-19"
+  },
+  {
+    "id": 1787171473990,
+    "home": "DarkHawk",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-19",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-19/images/match_DarkHawk_vs_BunnyBearZA_1787171469111.jpeg"
+  },
+  {
+    "id": 1787135550380,
+    "home": "YANITED",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-19",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-19/images/match_YANITED_vs_LaMonK_1787135542688.jpeg"
+  },
+  {
+    "id": 1787135528949,
+    "home": "Angel",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-19",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-19/images/match_Angel_vs_BullDOZER_1787135525603.jpeg"
+  },
+  {
+    "id": 1787063997091,
+    "home": "Incredible_Brad",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-08-17"
+  },
+  {
+    "id": 1787063963181,
+    "home": "Mini",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-18"
+  },
+  {
+    "id": 1787063956244,
+    "home": "BunnyBearZA",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-18"
+  },
+  {
+    "id": 1787063953764,
+    "home": "BullDOZER",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-18"
+  },
+  {
+    "id": 1787063142290,
+    "home": "Emmanuel",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-17"
+  },
+  {
+    "id": 1787063136392,
+    "home": "Emmanuel",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-18"
+  },
+  {
+    "id": 1787062999410,
+    "home": "Angel",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-18",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-18/images/match_Angel_vs_LaMonK_1787062989386.jpeg"
+  },
+  {
+    "id": 1787062950984,
+    "home": "DarkHawk",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-18"
+  },
+  {
+    "id": 1787007836173,
+    "home": "DarkHawk",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-17",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-17/images/match_DarkHawk_vs_BunnyBearZA_1787007830624.jpeg"
+  },
+  {
+    "id": 1787007828129,
+    "home": "LaMonK",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-17",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-17/images/match_LaMonK_vs_YANITED_1787007822392.jpeg"
+  },
+  {
+    "id": 1787007825148,
+    "home": "BullDOZER",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-17",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-17/images/match_BullDOZER_vs_Astral_Reign_1787007813580.jpeg"
+  },
+  {
+    "id": 1786978195658,
+    "home": "Angel",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-17"
+  },
+  {
+    "id": 1786902565774,
+    "home": "LaMonK",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-08-15"
+  },
+  {
+    "id": 1786902558565,
+    "home": "Emmanuel",
+    "away": "Incredible_Brad",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-15"
+  },
+  {
+    "id": 1786902335182,
+    "home": "Angel",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-15"
+  },
+  {
+    "id": 1786902334681,
+    "home": "Rabbit",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-15"
+  },
+  {
+    "id": 1786902186211,
+    "home": "DarkHawk",
+    "away": "BullDOZER",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-15"
+  },
+  {
+    "id": 1786777746909,
+    "home": "Emmanuel",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-14"
+  },
+  {
+    "id": 1786777736801,
+    "home": "LaMonK",
+    "away": "Rabbit",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-08-14"
+  },
+  {
+    "id": 1786777703843,
+    "home": "YANITED",
+    "away": "Mini",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-14"
+  },
+  {
+    "id": 1786731311213,
+    "home": "BullDOZER",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-14"
+  },
+  {
+    "id": 1786731290537,
+    "home": "DarkHawk",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-14"
+  },
+  {
+    "id": 1786731272753,
+    "home": "Incredible_Brad",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-14"
+  },
+  {
+    "id": 1786695158047,
+    "home": "Emmanuel",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-13",
+    "editedAt": "2026-08-15T07:09:07.125Z"
+  },
+  {
+    "id": 1786695154570,
+    "home": "BunnyBearZA",
+    "away": "YANITED",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-13",
+    "editedAt": "2026-08-14T18:14:17.069Z"
+  },
+  {
+    "id": 1786695154233,
+    "home": "Incredible_Brad",
+    "away": "LaMonK",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-08-13"
+  },
+  {
+    "id": 1786695121547,
+    "home": "Kaboman",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-13"
+  },
+  {
+    "id": 1786695075763,
+    "home": "Rabbit",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-13"
+  },
+  {
+    "id": 1786695053731,
+    "home": "Angel",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-13"
+  },
+  {
+    "id": 1786600830753,
+    "home": "DarkHawk",
+    "away": "Mini",
+    "result": "draw",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "date": "2026-08-12",
+    "editedAt": "2026-08-13T06:01:20.961Z"
+  },
+  {
+    "id": 1786600786367,
+    "home": "Rabbit",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-12"
+  },
+  {
+    "id": 1786600762659,
+    "home": "Incredible_Brad",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-12"
+  },
+  {
+    "id": 1786600732902,
+    "home": "Kaboman",
+    "away": "Angel",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-12"
+  },
+  {
+    "id": 1786600714448,
+    "home": "DNE",
+    "away": "Emmanuel",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-12"
+  },
+  {
+    "id": 1786600720168,
+    "home": "Astral_Reign",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-12"
+  },
+  {
+    "id": 1786517349535,
+    "home": "Emmanuel",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-11"
+  },
+  {
+    "id": 1786517339433,
+    "home": "DNE",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-11"
+  },
+  {
+    "id": 1786517333625,
+    "home": "BullDOZER",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-11"
+  },
+  {
+    "id": 1786517315319,
+    "home": "Kaboman",
+    "away": "Incredible_Brad",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-11"
+  },
+  {
+    "id": 1786517292041,
+    "home": "Rabbit",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-11"
+  },
+  {
+    "id": 1786517288931,
+    "home": "Astral_Reign",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-11"
+  },
+  {
+    "id": 1786427802081,
+    "home": "Emmanuel",
+    "away": "Incredible_Brad",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-08-08"
+  },
+  {
+    "id": 1786427793819,
+    "home": "Rabbit",
+    "away": "DNE",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-08"
+  },
+  {
+    "id": 1786427790940,
+    "home": "Angel",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-08"
+  },
+  {
+    "id": 1786427782227,
+    "home": "Kaboman",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-08"
+  },
+  {
+    "id": 1786427783695,
+    "home": "BullDOZER",
+    "away": "YANITED",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-08"
+  },
+  {
+    "id": 1786427756278,
+    "home": "Astral_Reign",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-08"
+  },
+  {
+    "id": 1786178290676,
+    "home": "BullDOZER",
+    "away": "DNE",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-07"
+  },
+  {
+    "id": 1786178293163,
+    "home": "DarkHawk",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-07"
+  },
+  {
+    "id": 1786178263325,
+    "uid": "741333a3",
+    "loggedAt": "2026-08-08T08:37:35.855Z",
+    "home": "Mini",
+    "away": "YANITED",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-07",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-07/images/match_Mini_vs_YANITED_1786178252208.jpg"
+  },
+  {
+    "id": 1786178241481,
+    "uid": "bba9e396",
+    "loggedAt": "2026-08-08T08:37:15.570Z",
+    "home": "Kaboman",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-07"
+  },
+  {
+    "id": 1786178228139,
+    "uid": "c1215af2",
+    "loggedAt": "2026-08-08T08:37:04.221Z",
+    "home": "Rabbit",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-07",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-07/images/match_Rabbit_vs_Astral_Reign_1786178220341.jpg"
+  },
+  {
+    "id": 1786178201571,
+    "uid": "83ddd6f2",
+    "loggedAt": "2026-08-08T08:36:36.551Z",
+    "home": "Angel",
+    "away": "Emmanuel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-07",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-08-07/images/match_Angel_vs_Emmanuel_1786178193172.jpg"
+  },
+  {
+    "id": 1786080454519,
+    "home": "BullDOZER",
+    "away": "Emmanuel",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": 1786080377594,
+    "home": "Incredible_Brad",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-06"
+  },
+  {
+    "id": 1786080351976,
+    "home": "DNE",
+    "away": "Astral_Reign",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-06"
+  },
+  {
+    "id": 1786080348440,
+    "home": "DarkHawk",
+    "away": "Kaboman",
+    "result": "home",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-06",
+    "editedAt": "2026-08-07T05:26:25.788Z"
+  },
+  {
+    "id": 1786080341847,
+    "home": "YANITED",
+    "away": "Rabbit",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": 1786080326544,
+    "home": "Mini",
+    "away": "Angel",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-06"
+  },
+  {
+    "id": 1785991276899,
+    "home": "Incredible_Brad",
+    "away": "DNE",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-05"
+  },
+  {
+    "id": 1785951454202,
+    "home": "Kaboman",
+    "away": "Emmanuel",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-05"
+  },
+  {
+    "id": 1785951339028,
+    "home": "BullDOZER",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-05"
+  },
+  {
+    "id": 1785951327014,
+    "home": "Mini",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-05"
+  },
+  {
+    "id": 1785951311098,
+    "home": "Rabbit",
+    "away": "Angel",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-05"
+  },
+  {
+    "id": 1785951312441,
+    "home": "Astral_Reign",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-05"
+  },
+  {
+    "id": 1785910108411,
+    "home": "Rabbit",
+    "away": "Kaboman",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-04"
+  },
+  {
+    "id": 1785910083234,
+    "home": "Angel",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-04"
+  },
+  {
+    "id": 1785910046587,
+    "home": "DNE",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-04"
+  },
+  {
+    "id": 1785853054452,
+    "home": "BunnyBearZA",
+    "away": "BullDOZER",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-04"
+  },
+  {
+    "id": 1785853041036,
+    "home": "Emmanuel",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-04"
+  },
+  {
+    "id": 1785853022852,
+    "home": "Astral_Reign",
+    "away": "DarkHawk",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-04"
+  },
+  {
+    "id": 1785787863107,
+    "home": "Kaboman",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-03"
+  },
+  {
+    "id": 1785787836397,
+    "home": "Rabbit",
+    "away": "DNE",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-03"
+  },
+  {
+    "id": 1785787828799,
+    "home": "Emmanuel",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-03"
+  },
+  {
+    "id": 1785787737745,
+    "home": "Mini",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-03",
+    "editedAt": "2026-08-04T10:21:36.797Z"
+  },
+  {
+    "id": 1785786219225,
+    "home": "Incredible_Brad",
+    "away": "Astral_Reign",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-08-03",
+    "editedAt": "2026-08-04T04:55:36.550Z"
+  },
+  {
+    "id": 1785786185232,
+    "home": "Angel",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-08-03"
+  },
+  {
+    "id": 1791968794387,
+    "home": "BullDOZER",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791968813955,
+    "home": "Incredible_Brad",
+    "away": "Mini",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-07"
+  },
+  {
+    "id": 1791968823577,
+    "home": "YANITED",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791968828350,
+    "home": "YANITED",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791968837093,
+    "home": "DarkHawk",
+    "away": "BullDOZER",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-07"
+  },
+  {
+    "id": 1791968842074,
+    "home": "BullDOZER",
+    "away": "Incredible_Brad",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-05"
+  },
+  {
+    "id": 1791968850472,
+    "home": "Astral_Reign",
+    "away": "BunnyBearZA",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791968871691,
+    "home": "BullDOZER",
+    "away": "DarkHawk",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-08"
+  },
+  {
+    "id": 1791969028275,
+    "home": "Incredible_Brad",
+    "away": "YANITED",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-10-06"
+  }
+]
