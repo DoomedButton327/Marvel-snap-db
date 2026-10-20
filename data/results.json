@@ -1,5 +1,15 @@
 [
   {
+    "id": 1792538090684,
+    "home": "DarkHawk",
+    "away": "YANITED",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-10-20",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-10-20/images/match_DarkHawk_vs_YANITED_1792538081907.jpeg"
+  },
+  {
     "id": 1792538082738,
     "home": "Angel",
     "away": "BullDOZER",
