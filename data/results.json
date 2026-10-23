@@ -1,5 +1,15 @@
 [
   {
+    "id": 1792797169442,
+    "home": "Astral_Reign",
+    "away": "Mini",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-10-23",
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/Marvel-snap-db/main/data/games/2026-10-23/images/match_Astral_Reign_vs_Mini_1792797162067.jpeg"
+  },
+  {
     "id": 1792797163345,
     "home": "Astral_Reign",
     "away": "BullDOZER",
