@@ -27,15 +27,14 @@
     "name": "Fahd",
     "username": "Mini",
     "phone": "+2348140087648",
-    "played": 63,
-    "wins": 46,
+    "played": 64,
+    "wins": 47,
     "draws": 2,
     "losses": 15,
-    "points": 140,
-    "gf": 47,
+    "points": 143,
+    "gf": 48,
     "ga": 19,
     "form": [
-      "W",
       "L",
       "L",
       "W",
@@ -44,7 +43,8 @@
       "W",
       "W",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -209,15 +209,14 @@
     "name": "Bjorn",
     "username": "BunnyBearZA",
     "phone": "+27815794703",
-    "played": 58,
+    "played": 59,
     "wins": 32,
     "draws": 3,
-    "losses": 23,
+    "losses": 24,
     "points": 99,
     "gf": 38,
-    "ga": 42,
+    "ga": 43,
     "form": [
-      "L",
       "W",
       "L",
       "W",
@@ -226,7 +225,8 @@
       "L",
       "L",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
