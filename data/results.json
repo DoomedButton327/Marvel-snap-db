@@ -1,5 +1,16 @@
 [
   {
+    "id": 1793315636449,
+    "home": "DarkHawk",
+    "away": "BunnyBearZA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 4,
+    "date": "2026-10-30",
+    "forfeit": true,
+    "autoForfeit": false
+  },
+  {
     "id": 1793304789778,
     "home": "Angel",
     "away": "DarkHawk",
