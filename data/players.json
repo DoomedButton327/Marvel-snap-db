@@ -53,16 +53,15 @@
     "name": "Angel",
     "username": "Angel",
     "phone": "+27833006494",
-    "played": 67,
+    "played": 68,
     "wins": 32,
     "draws": 0,
-    "losses": 35,
+    "losses": 36,
     "points": 96,
     "gf": 31,
-    "ga": 47,
+    "ga": 48,
     "form": [
       "W",
-      "W",
       "L",
       "L",
       "L",
@@ -70,7 +69,8 @@
       "W",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -131,15 +131,14 @@
     "name": "Lethabo",
     "username": "YANITED",
     "phone": "+27714588239",
-    "played": 66,
-    "wins": 49,
+    "played": 67,
+    "wins": 50,
     "draws": 2,
     "losses": 15,
-    "points": 149,
-    "gf": 46,
+    "points": 152,
+    "gf": 47,
     "ga": 23,
     "form": [
-      "L",
       "W",
       "L",
       "W",
@@ -148,7 +147,8 @@
       "W",
       "L",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
