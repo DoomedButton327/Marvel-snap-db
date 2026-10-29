@@ -53,15 +53,14 @@
     "name": "Angel",
     "username": "Angel",
     "phone": "+27833006494",
-    "played": 66,
-    "wins": 31,
+    "played": 67,
+    "wins": 32,
     "draws": 0,
     "losses": 35,
-    "points": 93,
-    "gf": 30,
+    "points": 96,
+    "gf": 31,
     "ga": 47,
     "form": [
-      "L",
       "W",
       "W",
       "L",
@@ -70,7 +69,8 @@
       "W",
       "W",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -79,15 +79,14 @@
     "name": "DarkHawk",
     "username": "DarkHawk",
     "phone": "+2348057545152",
-    "played": 61,
+    "played": 62,
     "wins": 34,
     "draws": 1,
-    "losses": 26,
+    "losses": 27,
     "points": 103,
     "gf": 35,
-    "ga": 33,
+    "ga": 34,
     "form": [
-      "L",
       "W",
       "L",
       "W",
@@ -96,7 +95,8 @@
       "W",
       "L",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 19,
     "suspended": false
