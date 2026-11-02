@@ -67,8 +67,8 @@
       "W",
       "W",
       "W",
-      "L",
       "W",
+      "L",
       "L",
       "W"
     ],
@@ -91,8 +91,8 @@
       "W",
       "L",
       "L",
-      "W",
       "L",
+      "W",
       "L",
       "L",
       "L",
@@ -132,11 +132,11 @@
     "username": "YANITED",
     "phone": "+27714588239",
     "played": 69,
-    "wins": 50,
-    "draws": 3,
+    "wins": 51,
+    "draws": 2,
     "losses": 16,
-    "points": 153,
-    "gf": 47,
+    "points": 155,
+    "gf": 48,
     "ga": 24,
     "form": [
       "W",
@@ -148,7 +148,7 @@
       "L",
       "W",
       "L",
-      "D"
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -211,11 +211,11 @@
     "phone": "+27815794703",
     "played": 64,
     "wins": 33,
-    "draws": 4,
-    "losses": 27,
-    "points": 103,
+    "draws": 3,
+    "losses": 28,
+    "points": 102,
     "gf": 42,
-    "ga": 46,
+    "ga": 47,
     "form": [
       "L",
       "L",
@@ -226,7 +226,7 @@
       "L",
       "W",
       "L",
-      "D"
+      "L"
     ],
     "postponements": 20,
     "suspended": false
