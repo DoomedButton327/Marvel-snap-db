@@ -131,15 +131,14 @@
     "name": "Lethabo",
     "username": "YANITED",
     "phone": "+27714588239",
-    "played": 68,
+    "played": 69,
     "wins": 50,
-    "draws": 2,
+    "draws": 3,
     "losses": 16,
-    "points": 152,
+    "points": 153,
     "gf": 47,
     "ga": 24,
     "form": [
-      "L",
       "W",
       "W",
       "W",
@@ -148,7 +147,8 @@
       "W",
       "L",
       "W",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
@@ -209,24 +209,24 @@
     "name": "Bjorn",
     "username": "BunnyBearZA",
     "phone": "+27815794703",
-    "played": 63,
+    "played": 64,
     "wins": 33,
-    "draws": 3,
+    "draws": 4,
     "losses": 27,
-    "points": 102,
+    "points": 103,
     "gf": 42,
     "ga": 46,
     "form": [
       "L",
       "L",
       "L",
-      "L",
       "W",
       "L",
       "L",
       "L",
       "W",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
